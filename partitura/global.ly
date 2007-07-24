@@ -52,12 +52,18 @@ gestoCglobal = {
   \padraoglobal
   \tempo 8=240
   \mark \default
-  \repeat unfold 26 {
     \time 7/8
     s1*7/8
+  \repeat unfold 17 {
     \time 5/8
     s1*5/8
+    \time 7/8
+    s1*7/8*2
   }
+    \time 5/8
+    s1*5/8
+    \time 7/8
+    s1*7/8
   \bar "||"
 }
 
