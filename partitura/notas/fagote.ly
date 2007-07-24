@@ -48,7 +48,7 @@ gestoAfagote = {
     R1
     r2. b,,4~\mf
     b2 \times 2/3 {b4 b b}
-    b4 b bes e~
+    b4 b bes e,~
     e2 r
     R1*4/4*11
   }
