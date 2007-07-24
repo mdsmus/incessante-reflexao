@@ -164,7 +164,7 @@ gestoCflauta = {
     R1*7/8
     R1*5/8
     R1*7/8*2
-    r8 f8~\mf\cantabile( f4.
+    r8 f8~\mf\cantabile( f4.~
     f2~ f4.~
     f8 aes~ aes4~ aes4.~
     aes4) r4.

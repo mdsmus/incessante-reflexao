@@ -174,7 +174,7 @@ gestoCoboe = {
     }
   }
   \relative c'' {
-    d gis, dis' a e' ais, f'~
+    d\deciso gis, dis' a e' ais, f'~
     f4~ f4.~
     f2~ f4.
   }

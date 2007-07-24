@@ -101,7 +101,7 @@ gestoCtrompaemf = {
     }
     g-. r a-.[ r b-.]
     g-. r a-. r b-.[ r cis-.]
-    g-. r r f' b, fis' c
+    g-. r r f'\deciso b, fis' c
     g' des aes'4.~
     aes2~ aes4.
   }

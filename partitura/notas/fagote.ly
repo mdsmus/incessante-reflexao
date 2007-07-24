@@ -120,7 +120,7 @@ gestoCfagote = {
       g-. r a-. r b-.[ r cis-.]
       g-. r a-. r b-.[ r cis-.]
     }
-    bes f' b, ges' c,
+    bes\deciso f' b, ges' c,
     g2~\< g4.~
   }
 }
