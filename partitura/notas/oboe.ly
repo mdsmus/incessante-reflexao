@@ -184,7 +184,7 @@ gestoDoboe = {
   \relative c'' {
     R1*5
     r2. ais4~\f\>
-    ais r r2
+    ais\p r r2
     R1
     r2 a\mf(
     gis) \times 2/3 {gis4 gis gis}
@@ -199,6 +199,6 @@ gestoDoboe = {
     \repeat unfold 4 {\times 4/5 {b'16[ a g f ees]}}
     \times 4/5 {b'16 a g f ees)} r2.
     R1*2
-    bes''32\f bes r16 r8 r4
+    bes''32\f bes r16 r8 r2.
   }
 }

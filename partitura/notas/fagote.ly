@@ -139,7 +139,7 @@ gestoDfagote = {
     f\p r r2
     R1*3
     \clef bass
-    r4 b,,,2\mf bes4~
+    r4 b,,,2\mf\obscuro bes4~
     bes \times 2/3 {bes4 bes bes} e4~
     e dis2.
     r2
@@ -155,10 +155,9 @@ gestoDfagote = {
     r2 r4
     \clef bass
     \times 4/5 {b,16( a g f ees}
-    \repeat unfold 2 {\times 4/5 {b'16( a g f ees}}
+    \repeat unfold 2 {\times 4/5 {b'16[ a g f ees]}}
     \times 4/5 {b'16 a g f ees)} r4
     R1*2
-    b,32\f b r16 r8 r4
-
+    b,32\f b r16 r8 r2.
   }
 }
