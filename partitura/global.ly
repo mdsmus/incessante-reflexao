@@ -1,4 +1,4 @@
-\version "2.8.2"
+\version "2.10.0"
 
 \include "newcommand.ly"
 
@@ -17,11 +17,40 @@ padraoglobal = {
   \override Score.RehearsalMark #'padding = #0.5
 }
 
-gestoAAglobal = {
+gestoAglobal = {
   %% gesto A %% duracao=?
   \padraoglobal
   \tempo 4=60
   \time 4/4
-  s1*4
+  s1*50
+  \bar "||"
+}
+
+gestoBglobal = {
+  %% gesto A %% duracao=?
+  \padraoglobal
+  \tempo 4=60
+  \time 4/4
+  s1*47
+  \bar "||"
+}
+
+gestoCglobal = {
+  %% gesto A %% duracao=?
+  \padraoglobal
+  \tempo 4=60
+  \repeat unfold 52 {
+    s1*7/8
+    s1*5/8
+  }
+  \bar "||"
+}
+
+gestoDglobal = {
+  %% gesto A %% duracao=?
+  \padraoglobal
+  \tempo 4=60
+  \time 4/4
+  s1*23
   \bar "||"
 }

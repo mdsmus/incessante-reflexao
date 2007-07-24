@@ -1,3 +1,18 @@
-gestoAAicode = {
-  R1*4
+gestoAicode = {
+  R1*4/4*50
+}
+
+gestoBicode = {
+  R1*4/4*47
+}
+
+gestoCicode = {
+  \repeat unfold 52 {
+    R1*7/8
+    R1*5/8
+  }
+}
+
+gestoDicode = {
+  R1*4/4*23
 }
