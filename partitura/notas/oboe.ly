@@ -181,5 +181,24 @@ gestoCoboe = {
 }
 
 gestoDoboe = {
-  R1*4/4*23
+  \relative c'' {
+    R1*5
+    r2. ais4~\f\>
+    ais r r2
+    R1
+    r2 a\mf(
+    gis) \times 2/3 {gis4 gis gis}
+    d'2( cis)
+    R1
+    r4 r8 f~ f4~ f8 e~
+    e4 \times 2/3 {e4 e e} bes'4~
+    bes a2.
+    R1*2
+    r4 d,16\mf\agitato( e f g f e d cis d e f g
+    f e d cis d8) r r4 \times 4/5 {b16( a g f ees}
+    \repeat unfold 4 {\times 4/5 {b'16[ a g f ees]}}
+    \times 4/5 {b'16 a g f ees)} r2.
+    R1*2
+    bes''32\f bes r16 r8 r4
+  }
 }
