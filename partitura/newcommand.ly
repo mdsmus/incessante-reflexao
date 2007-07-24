@@ -104,6 +104,7 @@ leggero = ^\markup{\italic{leggero}}
 obscuro = ^\markup{\italic{obscuro}}
 marcatto = ^\markup{\italic{marcato}}
 cantabile = ^\markup{\italic{cantabile}}
+giocoso = ^\markup{\italic{giocoso}}
 sffz = #(make-dynamic-script "sffz")
 
 % andamento

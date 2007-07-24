@@ -70,9 +70,15 @@ gestoCglobal = {
 gestoDglobal = {
   %% gesto A %% duracao=?
   \padraoglobal
-  \tempo 4=80
+  \tempo 4=120
   \mark \default
   \time 4/4
-  s1*23
+  s1*6
+  \bar "||"
+  \tempo 4=80
+  \mark \default
+  s1*10
+  \mark \default
+  s1*8
   \bar "||"
 }
