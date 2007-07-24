@@ -108,5 +108,22 @@ gestoCtrompaemf = {
 }
 
 gestoDtrompaemf = {
-  R1*4/4*23
+  \relative c'' {
+    R1*6
+    b1~\mp\<\cantabile(
+    b2 a\mf~
+    a4) \times 2/3 {a4 a a} dis4~(
+    dis2~ dis8 cis4.~
+    cis1~
+    cis4) r r2
+    R1*4
+    r8 d,-.\mf\giocoso r e-. r fis-. r gis-.
+    d-. r e-. r fis-. r gis-. d-.
+    r e-. r fis-. d-. r e-. r
+    fis-. r gis-. d-. r e-. r fis-.
+    r gis-. d-. r r4 d8-. r
+    d-. r r d-. r r d-. r
+    R1
+    g32\f g r16 r8 g4-.
+  }
 }
