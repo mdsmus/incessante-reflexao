@@ -65,7 +65,7 @@ gestoBfagote = {
     ges4 f2.
     R1
     \clef bass
-    r4 b,,,2\mf( bes4~
+    r4 b,,,2\mf\obscuro( bes4~
     bes) \times 2/3 {bes4 bes bes} e4~(
     e dis2.)
     \clef tenor
