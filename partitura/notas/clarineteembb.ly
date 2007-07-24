@@ -51,7 +51,7 @@ gestoAclarineteembb = {
     }
     R1
     \transpose b cis' {
-      r2. b4~\mf
+      r2. b4~\mf\energico
       b2 \times 2/3 {b4 b b}
       b4 b bes e~
       e2 r

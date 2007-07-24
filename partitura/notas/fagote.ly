@@ -46,7 +46,7 @@ gestoAfagote = {
       aes16( g f g \repeat unfold 2 { aes g f g } aes8) r
     }
     R1
-    r2. b,,4~\mf
+    r2. b,,4~\mf\energico
     b2 \times 2/3 {b4 b b}
     b4 b bes e,~
     e2 r

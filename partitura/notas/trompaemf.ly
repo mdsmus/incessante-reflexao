@@ -27,8 +27,8 @@ gestoAtrompaemf = {
     r2 a~(
     a~ c
     ees b~
-    b4 r fis2~
-    fis'4 \times 2/3 {fis4 fis fis} fis4
+    b4) r fis'2~
+    fis4 \times 2/3 {fis4 fis fis} fis4
     fis f b,2
     R1*4/4*14
   }
