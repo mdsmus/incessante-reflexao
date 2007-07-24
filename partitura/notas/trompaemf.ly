@@ -35,11 +35,60 @@ gestoAtrompaemf = {
 }
 
 gestoBtrompaemf = {
-  R1*4/4*47
+  \relative c'' {
+    R1*10
+    a4\stopped\mf \times 2/3 {a8\stopped a\stopped a\stopped} a8\stopped a\stopped gis\stopped d~\stopped
+    d1\stopped
+    R1*4
+    \transpose a g' {
+      a4\stopped \times 2/3 {a8\stopped a\stopped a\stopped} a8\stopped a\stopped gis\stopped d~\stopped
+      d1\stopped
+    }
+    R1
+    \clef bass
+    r2 d,\open
+    cis \times 2/3 {cis4 cis cis}
+    g'2 fis
+    R1
+    \clef treble
+    r8 fis~\energico( fis2.~
+    fis4 a4. aes8 g4~
+    g8 ais4 gis8 b4 d~
+    d c) b8->( c4.
+    b8-> ais4.) \times 2/3 {fis4\p\<\leggero( gis8~} \times 2/3 {gis8 ais4}
+    c8\mf\> ais gis fis~ fis4\p e~
+    e2) fis(
+    a1)
+%    \clef treble
+    b'4 f2.~
+    f1
+%    \clef bass
+    r4 r8 a,?~\mp a2~
+    a2. r4
+    r4 r8 a~ a2~
+    a2
+    %% transposição
+    \transpose fis g, {
+      \relative {
+        \times 2/3 {fis4\p\<\leggero( gis8~} \times 2/3 {gis8 ais4}
+        c8\mf\> ais gis fis~ fis4\p e~
+        e2) fis(
+        a1)
+%        \clef treble
+        b'4 f2.~
+        f4 r2.
+      }
+    }
+    %%
+    r4 aes2.~\mp
+    aes1~
+    aes4 r2.
+    R1*2
+  }
 }
 
 gestoCtrompaemf = {
-  \repeat unfold 52 {
+  \repeat unfold 26 {
     R1*7/8
     R1*5/8
   }
