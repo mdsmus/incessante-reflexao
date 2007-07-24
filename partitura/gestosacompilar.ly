@@ -4,4 +4,7 @@
 
 gestosicode = {
 \gestoAicode
+\gestoBicode
+%\gestoCicode
+%\gestoDicode
 }
