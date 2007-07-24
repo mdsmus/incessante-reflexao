@@ -9,8 +9,8 @@ gestoAoboe = {
     b8) r r2.
     \transpose b d'' {
       \relative {
-      b16( cis d e d cis b ais b cis d e d cis b ais
-      b8) r r2.
+        b16( cis d e d cis b ais b cis d e d cis b ais
+        b8) r r2.
       }
     }
     \transpose b f'' {
@@ -58,8 +58,8 @@ gestoAoboe = {
       \relative {
         b16( cis d e d cis b ais
         \repeat unfold 4 {
-           b cis d e d cis b ais
-         }
+          b cis d e d cis b ais
+        }
         b cis d e
         eis?8) r r2.
       }
@@ -109,7 +109,51 @@ gestoAoboe = {
 
 
 gestoBoboe = {
-  R1*4/4*47
+  \relative c'' {
+    R1*11
+    r2 a\mf(
+    gis) \times 2/3 {gis4 gis gis}
+    d'2( cis)
+    R1
+    r4 r8 f~ f4~ f8 e~
+    e4 \times 2/3 {e4 e e} bes'4~
+    bes a2.
+    R1*4
+    r8 f4\mp e8( dis2)
+    r8 b~\energico( b2.~
+    b4 d4. des8 c4~
+    c8 dis4 cis8 e4 g~
+    g2) aes8->( g4.
+    aes8-> a4.)
+    \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
+    \times 4/5 {b8\mf\> a g f ees} des2~\p
+    des) ees
+    c'?4\mf fis,2.~
+    fis bes4~\mp
+    bes2 r
+    r r8 f,4.~
+    f2 r
+    r r8 f4.~
+    f2
+    \transpose des d'' {
+      \relative {
+        \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
+        \times 4/5 {b8\mf\> a g f ees} des2~\p
+        des) ees
+      }
+    }
+    \setTextDecresc {
+      cis'4\mf\> g2.~
+      g b4~
+      b2
+      r4 g'~
+      g2 r4 cis,~
+      cis2 r4 g~
+      g2 r4 cis,~\pp
+      cis1
+    }
+    R1
+  }
 }
 
 gestoCoboe = {
