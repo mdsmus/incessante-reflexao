@@ -68,7 +68,56 @@ gestoAclarineteembb = {
 }
 
 gestoBclarineteembb = {
-  R1*4/4*47
+  \relative c'' {
+    R1*3
+    r2. d4~\mp(
+    d2. c4~
+    c2) \times 2/3 {c4 c c}
+    fis2. fis8. fis16~
+    fis2. fis8. e16~
+    e1
+    R1*5
+    r4 fis,,2~\mf\obscuro ( eis4~
+    eis) \times 2/3 {eis4 eis eis} cis'4~(
+    cis2 bis) 
+    r d''~(
+    d8 cis4.) \times 2/3 {cis4 cis cis}
+    g'2. fis4(
+    fis2) r
+    R1
+    r8 des4\mp c8( b2)
+    r8 cis,,~\energico( cis2.~
+    cis4 e4. ees8 d4~
+    d8 f4 dis8 fis4 a~
+    a2) bes8->( a4.
+    bes8-> b4.) \times 4/5 {ees,8\p\<\leggero( f g a b}
+    \times 4/7 {cis8\mf\> dis cis b a g f} ees4\p f~
+    f2) g(
+    bes) e'4\mf bes~
+    bes1
+    b2. r8 fis,,~
+    fis1~
+    fis2. r8 fis~
+    fis1~
+    fis2
+    \transpose ees e' {
+      \relative {
+        \times 4/5 {ees,8\p\<\leggero( f g a b}
+        \times 4/7 {cis8\mf\> dis cis b a g f} ees4\p f~
+        f2) g(
+        bes) fes''4\mf bes,~
+        bes1
+      }
+    }
+    \setTextDecresc {
+      cis'''2.\mf\> r4
+      g2. r4
+      cis,2. r4
+      g2. r4
+      cis,1\pp
+      R1      
+    }
+  }
 }
 
 gestoCclarineteembb = {
