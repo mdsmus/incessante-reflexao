@@ -109,9 +109,19 @@ gestoBfagote = {
 }
 
 gestoCfagote = {
-  \repeat unfold 26 {
-    R1*7/8
-    R1*5/8
+  #(override-auto-beam-setting '(end * * 7 8) 2 8 )
+  #(override-auto-beam-setting '(end * * 7 8) 4 8 )
+  #(override-auto-beam-setting '(end * * 5 8) 2 8 )
+  \relative c {
+    \clef bass
+    g8-.\mf\marcatto r a-. r b-.[ r cis-.]
+    \repeat unfold 17 {
+      g-. r a-.[ r b-.]
+      g-. r a-. r b-.[ r cis-.]
+      g-. r a-. r b-.[ r cis-.]
+    }
+    bes f' b, ges' c,
+    g2~\< g4.~
   }
 }
 
