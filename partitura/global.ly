@@ -36,16 +36,20 @@ gestoBglobal = {
   \padraoglobal
   \tempo 4=80
   \mark \default
-  s1*47
+  s1*46
+  s4. s8\fermata s2
   \bar "||"
 }
 
 gestoCglobal = {
   %% gesto A %% duracao=?
   \padraoglobal
-  \tempo 4=60
-  \repeat unfold 52 {
+  \tempo 8=240
+  \mark \default
+  \repeat unfold 26 {
+    \time 7/8
     s1*7/8
+    \time 5/8
     s1*5/8
   }
   \bar "||"
@@ -54,7 +58,8 @@ gestoCglobal = {
 gestoDglobal = {
   %% gesto A %% duracao=?
   \padraoglobal
-  \tempo 4=60
+  \tempo 4=80
+  \mark \default
   \time 4/4
   s1*23
   \bar "||"
