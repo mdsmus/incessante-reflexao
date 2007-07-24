@@ -111,7 +111,49 @@ gestoAflauta = {
 }
 
 gestoBflauta = {
-  R1*4/4*47
+  \relative c' {
+    e1~\mp\obscuro(
+    e2 d~
+    d4) \times 2/3 {d4 d d} gis4~(
+    gis2~ gis8 fis4.~
+    fis1~
+    fis4) r r2
+    R1*7
+    \acciaccatura f''8\f ees1(
+    d)
+    \times 2/3 {d2 d d}
+    aes'1(
+    g)
+    R1*3
+    r8 g4\f( fis4.) \times 2/3 {fis8 fis fis}
+    c'4( b2) r4
+    b,1\energico
+    d2( f
+    cis a)
+    ges'1
+    r4 f2.~
+    f2 \times 2/3 {f4 f f}
+    f4 f e bes~
+    bes1~
+    bes2 b~
+    b4 r2.
+    r fis,4~\mp
+    fis r2.
+    r fis4
+    r fis''2.~\f
+    fis2 \times 2/3 {fis4 fis fis}
+    fis4 fis f b,~
+    \setTextDecresc {
+      b1~\>
+      b2 c~
+      c4 r a2~
+      a4 r ees2~
+      ees4 r a,2~
+      a4 r ees2~\pp
+      ees1
+      R1
+    }
+  }
 }
 
 gestoCflauta = {
