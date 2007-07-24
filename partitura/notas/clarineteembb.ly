@@ -72,7 +72,7 @@ gestoBclarineteembb = {
 }
 
 gestoCclarineteembb = {
-  \repeat unfold 52 {
+  \repeat unfold 26 {
     R1*7/8
     R1*5/8
   }
