@@ -126,5 +126,39 @@ gestoCfagote = {
 }
 
 gestoDfagote = {
-  R1*4/4*23
+  \clef bass
+  \relative c {
+    g1\f~
+    g4 \times 2/3 {g4 g g} g4
+    g fis c2~
+    c1~\>
+    c1\ppp
+    r2.
+    \clef tenor
+    f''4~\f\>
+    f\p r r2
+    R1*3
+    \clef bass
+    r4 b,,,2\mf bes4~
+    bes \times 2/3 {bes4 bes bes} e4~
+    e dis2.
+    r2
+    \clef tenor
+    ges''
+    f \times 2/3 {f4 f f}
+    b1
+    ais
+    r2
+    f16\mf\agitato( e d e
+    \repeat unfold 3 {f e d e}
+    f8) r r4
+    r2 r4
+    \clef bass
+    \times 4/5 {b,16( a g f ees}
+    \repeat unfold 2 {\times 4/5 {b'16( a g f ees}}
+    \times 4/5 {b'16 a g f ees)} r4
+    R1*2
+    b,32\f b r16 r8 r4
+
+  }
 }
