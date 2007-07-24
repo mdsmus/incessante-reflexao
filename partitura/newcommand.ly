@@ -100,6 +100,7 @@ dramatico = ^\markup{\italic{dramático}}
 energico = ^\markup{\italic{enérgico}}
 furioso = ^\markup{\italic{furioso}}
 agitato = ^\markup{\italic{agitato}}
+leggero = ^\markup{\italic{leggero}}
 sffz = #(make-dynamic-script "sffz")
 
 % andamento
