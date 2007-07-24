@@ -215,5 +215,25 @@ gestoCflauta = {
 }
 
 gestoDflauta = {
-  R1*4/4*23
+  \relative c''' {
+    R1*5
+    r2. b4~\f\>
+    b\p r r2
+    R1*3
+    \acciaccatura f'8\f ees1(
+    d)
+    \times 2/3 {d2 d d}
+    aes'1(
+    g)
+    R1*2
+
+    d,16\mf\agitato( e f g f e d cis d e f g f e d cis
+    d8) r \times 4/5 {b'16( a g f ees}
+    \repeat unfold 5 {\times 4/5 {b'16[ a g f ees]}}
+    \times 4/5 {b'16 a g f ees)}
+    R1*3
+    d'32\f d r16 r8 r4
+
+
+  }
 }
