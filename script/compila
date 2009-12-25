@@ -24,6 +24,7 @@ function processa_instrumentos {
 ## remove arquivos operacionais anteriores
 
     rm $ilistop 2> /dev/null
+    mkdir $tempdir 2> /dev/null
 
 ## envia lista de instrumentos processada para $ilistop
 
@@ -258,11 +259,13 @@ function compila_peca {
         echo -en \\007
         echo Ocorreram erros na compilação
     else
-        ## move arquivos ps e pdf para diretórios correto
+        ## move arquivos ps e pdf para diretórios corretos
+        mkdir $pdfdir 2> /dev/null ;
         mv $scriptdir/$psscorename $pdfdir ;
         mv $scriptdir/$pdfscorename $pdfdir ;
 
         ## move arquivos midi para diretório correto
+        mkdir $mididir 2> /dev/null ; 
         mv $scriptdir/*.midi $mididir 2> /dev/null ;
 
         ## remove arquivos desnecessários

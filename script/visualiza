@@ -36,7 +36,12 @@ function partes {
 
 function edita {
     
-    emacs $notesdir &
+    if ps ax | awk '{print $5}' | grep emacs > /dev/null
+    then
+        emacsclient $notesdir &
+    else
+        emacs $notesdir &
+    fi
 
 }
 
