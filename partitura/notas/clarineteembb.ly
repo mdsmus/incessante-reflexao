@@ -1,5 +1,5 @@
 %% clarineteembb.ly
-\version "2.10.19"
+\version "2.12.0"
 \include "newcommand.ly"
 
 gestoAclarineteembb = {
@@ -111,7 +111,7 @@ gestoBclarineteembb = {
         bes1
       }
     }
-    \setTextDecresc {
+    \dimTextDecresc {
       cis'''2.\mf\> r4
       g2. r4
       cis,2. r4

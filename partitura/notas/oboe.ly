@@ -1,5 +1,5 @@
 %% oboe.ly
-\version "2.10.19"
+\version "2.12.0"
 \include "newcommand.ly"
 
 gestoAoboe = {
@@ -142,7 +142,7 @@ gestoBoboe = {
         des) ees
       }
     }
-    \setTextDecresc {
+    \dimTextDecresc {
       cis'4\mf\> g2.~
       g b4~
       b2

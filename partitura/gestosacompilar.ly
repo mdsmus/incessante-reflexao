@@ -1,10 +1,10 @@
-\version "2.10.0"
+\version "2.12.0"
 
 \include "icode.ly"
 
 gestosicode = {
 \gestoAicode
 \gestoBicode
-%\gestoCicode
-%\gestoDicode
+\gestoCicode
+\gestoDicode
 }

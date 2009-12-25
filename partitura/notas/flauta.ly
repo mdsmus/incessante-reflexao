@@ -1,5 +1,5 @@
 %% flauta.ly
-\version "2.10.19"
+\version "2.12.0"
 \include "newcommand.ly"
 
 gestoAflauta = {
@@ -143,7 +143,7 @@ gestoBflauta = {
     r fis''2.~\f
     fis2 \times 2/3 {fis4 fis fis}
     fis4 fis f b,~
-    \setTextDecresc {
+    \dimTextDecresc {
       b1~\>
       b2 c~
       c4 r a2~
