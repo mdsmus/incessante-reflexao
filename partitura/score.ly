@@ -51,18 +51,18 @@
           \gestosclarineteembb
         >>
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Fagote"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Fg."}
-          \set Staff.midiInstrument = "bassoon"
-          \gestosglobal
-          \gestosfagote
-        >>
-        \new Staff <<
           \set Staff.instrumentName = \markup {\hcenter-in #5 "Trompa em F"}
           \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Tpa.F"}
           \set Staff.midiInstrument = "french horn"
           \gestosglobal
           \gestostrompaemf
+        >>
+        \new Staff <<
+          \set Staff.instrumentName = \markup {\hcenter-in #5 "Fagote"}
+          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Fg."}
+          \set Staff.midiInstrument = "bassoon"
+          \gestosglobal
+          \gestosfagote
         >>
       >>
     >>
