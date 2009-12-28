@@ -48,6 +48,7 @@
           \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Cl.Bb"}
           \set Staff.midiInstrument = "clarinet"
           \gestosglobal
+          \transposition bes
           \gestosclarineteembb
         >>
         \new Staff <<
@@ -55,6 +56,7 @@
           \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Tpa.F"}
           \set Staff.midiInstrument = "french horn"
           \gestosglobal
+          \transposition f
           \gestostrompaemf
         >>
         \new Staff <<
