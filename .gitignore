@@ -1,0 +1,8 @@
+*.midi
+*.ogg
+*.wav
+*.mp3
+*.ps
+*.pdf
+script/temp/instrumentos_op
+script/systemfiles/gestos*
