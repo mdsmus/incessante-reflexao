@@ -94,17 +94,17 @@ improv = ^\markup{\italic{improvisar com estas notas}}
 
 % caráter
 
-dolce = ^\markup{\italic{dolce}}
-deciso = ^\markup{\italic{deciso}}
+dolce = ^\markup{\italic{docemente}}
+deciso = ^\markup{\italic{decidido}}
 dramatico = ^\markup{\italic{dramático}}
 energico = ^\markup{\italic{enérgico}}
 furioso = ^\markup{\italic{furioso}}
-agitato = ^\markup{\italic{agitato}}
-leggero = ^\markup{\italic{leggero}}
+agitato = ^\markup{\italic{agitado}}
+leggero = ^\markup{\italic{leve}}
 obscuro = ^\markup{\italic{obscuro}}
-marcatto = ^\markup{\italic{marcato}}
-cantabile = ^\markup{\italic{cantabile}}
-giocoso = ^\markup{\italic{giocoso}}
+marcatto = ^\markup{\italic{marcado}}
+cantabile = ^\markup{\italic{cantável}}
+giocoso = ^\markup{\italic{jocoso}}
 sffz = #(make-dynamic-script "sffz")
 
 % andamento
