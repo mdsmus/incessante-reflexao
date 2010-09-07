@@ -6,7 +6,7 @@
 \include "gestosglobal.ly"
 \include "gestosclarineteembb.ly"
 
-#(set-global-staff-size 17)
+#(set-global-staff-size 20)
 
 %% partitura
 
