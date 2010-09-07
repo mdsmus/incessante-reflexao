@@ -30,38 +30,38 @@
     <<
       \new StaffGroup <<
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Flauta"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Fl."}
+          \set Staff.instrumentName = \markup {\right-align "Flauta "}
+          \set Staff.shortInstrumentName = \markup {\right-align "Fl. "}
           \set Staff.midiInstrument = "flute"
           \gestosglobal
           \gestosflauta
         >>
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Oboé"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Ob."}
+          \set Staff.instrumentName = \markup {\right-align "Oboé "}
+          \set Staff.shortInstrumentName = \markup {\right-align "Ob. "}
           \set Staff.midiInstrument = "oboe"
           \gestosglobal
           \gestosoboe
         >>
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Clarinete em Bb"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Cl.Bb"}
+          \set Staff.instrumentName = \markup {\right-align "Clarinete em Bb "}
+          \set Staff.shortInstrumentName = \markup {\right-align "Cl.Bb "}
           \set Staff.midiInstrument = "clarinet"
           \gestosglobal
           \transposition bes
           \gestosclarineteembb
         >>
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Trompa em F"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Tpa.F"}
+          \set Staff.instrumentName = \markup {\right-align "Trompa em F "}
+          \set Staff.shortInstrumentName = \markup {\right-align "Tpa.F "}
           \set Staff.midiInstrument = "french horn"
           \gestosglobal
           \transposition f
           \gestostrompaemf
         >>
         \new Staff <<
-          \set Staff.instrumentName = \markup {\hcenter-in #5 "Fagote"}
-          \set Staff.shortInstrumentName = \markup {\hcenter-in #5 "Fg."}
+          \set Staff.instrumentName = \markup {\right-align "Fagote "}
+          \set Staff.shortInstrumentName = \markup {\right-align "Fg. "}
           \set Staff.midiInstrument = "bassoon"
           \gestosglobal
           \gestosfagote
