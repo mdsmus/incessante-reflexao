@@ -19,11 +19,10 @@ gestoAtrompaemf = {
     aes4 aes g cis,~
     cis2. r4
     R1*2
-    r2. r8 \clef bass d,\f~(
+    r2. r8 d\f~(
     d1
     f2 aes
     e1)
-    \clef treble
     r2 a~(
     a~ c
     ees b~
@@ -45,8 +44,7 @@ gestoBtrompaemf = {
       d1\stopped
     }
     R1
-    \clef bass
-    r2 d,\open
+    r2 d\open
     cis \times 2/3 {cis4 cis cis}
     g'2 fis
     R1
@@ -58,10 +56,10 @@ gestoBtrompaemf = {
     c8\mf\> ais gis fis~ fis4\p e~
     e2) fis(
     a1)
-   \clef treble
+    \clef treble
     b'4 f2.~
     f1
-   \clef bass
+    \clef bass
     r4 r8 a,?~\mp a2~
     a2. r4
     r4 r8 a~ a2~
