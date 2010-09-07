@@ -50,7 +50,6 @@ gestoBtrompaemf = {
     cis \times 2/3 {cis4 cis cis}
     g'2 fis
     R1
-    \clef treble
     r8 fis~\energico( fis2.~
     fis4 a4. aes8 g4~
     g8 ais4 gis8 b4 d~
@@ -59,10 +58,10 @@ gestoBtrompaemf = {
     c8\mf\> ais gis fis~ fis4\p e~
     e2) fis(
     a1)
-%    \clef treble
+   \clef treble
     b'4 f2.~
     f1
-%    \clef bass
+   \clef bass
     r4 r8 a,?~\mp a2~
     a2. r4
     r4 r8 a~ a2~
@@ -74,7 +73,7 @@ gestoBtrompaemf = {
         c8\mf\> ais gis fis~ fis4\p e~
         e2) fis(
         a1)
-%        \clef treble
+       \clef treble
         b'4 f2.~
         f4 r2.
       }
