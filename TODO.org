@@ -1,0 +1,16 @@
+Lista de pendências
+
+* Reduzir tamanho da parte lenta
+* Diversificar acompanhamento em trecho de métrica irregular
+* Mudar final
+  Remover compasso final. Encerrar com p stacatíssimo.
+* DONE Rever oitava da trompa
+  CLOSED: [2010-09-07 Tue 18:52]
+** 27--29
+** 70--81
+** 84--90
+* Letra C: ornamentar solos
+  Usar outras notas, trinados, recursos de timbre, etc.
+* Letra F: alterar regularidade rítmica nas semínimas
+  Está previsível demais
+* Letra G: Diversificar solos na flauta e clarinete
