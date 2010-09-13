@@ -1,0 +1,19 @@
+Na primeira vez que for compilar a partitura rode:
+
+./atualiza_gestos_pausas
+
+Para compilar a partitura rode sempre:
+
+./compila
+
+Para visualizar o pdf com o gv rode:
+
+./visualiza
+
+Para ouvir o midi rode:
+
+./visualiza o
+
+Para editar a partitura no emacs rode:
+
+./visualiza e
