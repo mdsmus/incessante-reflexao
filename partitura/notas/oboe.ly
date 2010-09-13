@@ -112,12 +112,12 @@ gestoBoboe = {
   \relative c'' {
     R1*11
     r2 a\mf(
-    gis) \times 2/3 {gis4 gis gis}
+    gis) \times 2/3 {gis4-.-- gis-.-- gis-.--}
     d'2( cis)
     R1
-    r4 r8 f~ f4~ f8 e~
-    e4 \times 2/3 {e4 e e} bes'4~
-    bes a2.
+    r4 \times 2/3 {ces16( des ees} f8~ f4 \times 2/3 {a16 g f} e8~
+    e4) \times 2/3 {e4-.-- e-.-- e-.--} bes'4~(
+    bes a2.)
     R1*4
     r8 f4\mp e8( dis2)
     r8 b~\energico( b2.~

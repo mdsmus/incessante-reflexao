@@ -114,16 +114,16 @@ gestoBflauta = {
   \relative c' {
     e1~\mp\obscuro(
     e2 d~
-    d4) \times 2/3 {d4 d d} gis4~(
-    gis2~ gis8 fis4.~
-    fis1~
-    fis4) r r2
+    d4) \times 2/3 {d4-.-- d-.-- d-.--} gis4~(
+    gis2 \times 2/3 {a16 e g} fis4.~
+    fis2~ fis~:64
+    fis4:64) r r2
     R1*7
     \acciaccatura f''8\f ees1(
     d)
-    \times 2/3 {d2 d d}
+    \times 2/3 {d2->-- d->-- d->--}
     aes'1(
-    g)
+    g2~ g:64)
     R1*3
     r8 g4\f( fis4.) \times 2/3 {fis8 fis fis}
     c'4( b2) r4

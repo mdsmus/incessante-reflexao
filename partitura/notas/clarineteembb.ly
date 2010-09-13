@@ -57,7 +57,7 @@ gestoAclarineteembb = {
       e2 r
     }
     %%
-    g16\mf( a bes c bes a g fis 
+    g16\mf( a bes c bes a g fis
     \repeat unfold 7 {
       g a bes c bes a g fis
     }
@@ -70,16 +70,16 @@ gestoAclarineteembb = {
 gestoBclarineteembb = {
   \relative c'' {
     R1*3
-    r2. d4~\mp(
-    d2. c4~
-    c2) \times 2/3 {c4 c c}
-    fis2. fis8. fis16~
-    fis2. fis8. e16~
+    r2. d4~\mp
+    d2. \acciaccatura e8 c4~(
+    c8 bes16 aes ges16) c8. \acciaccatura des8 \times 2/3 {c4-.-- c-.-- c-.--}
+    fis2. \acciaccatura e8 fis8.( a16-.)
+    fis2( a8) bes16( g) fis8.\trill e16~
     e1
     R1*5
     r4 fis,,2~\mf\obscuro ( eis4~
-    eis) \times 2/3 {eis4 eis eis} cis'4~(
-    cis2 bis) 
+    eis) \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~\startTrillSpan(
+    cis2\stopTrillSpan bis)
     r d''~(
     d8 cis4.) \times 2/3 {cis4 cis cis}
 
@@ -117,7 +117,7 @@ gestoBclarineteembb = {
       cis,2. r4
       g2. r4
       cis,1\pp
-      R1      
+      R1
     }
   }
 }
@@ -193,7 +193,7 @@ gestoDclarineteembb = {
     R1*4
     r4 fis,2~\mf\obscuro ( eis4~
     eis) \times 2/3 {eis4 eis eis} cis'4~(
-    cis2 bis) 
+    cis2 bis)
     r d''~(
     d8 cis4.) \times 2/3 {cis4 cis cis}
     g'2. fis4~

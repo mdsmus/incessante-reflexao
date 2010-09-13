@@ -58,27 +58,27 @@ gestoBfagote = {
   \relative c' {
     R1*7
     \clef tenor
-    r4 des2.~\mp(
-    des2 c)
-    \times 2/3 {c4 c c} ges'2~
+    r4 des4.~\mp( ees8 \times 2/3 {des ees des}
+    des16 ees des ees des c bes des c2)
+    \times 2/3 {c8.->( bes16-.) c8.->( aes16-.) c8.->( ges16-.)} ges'2~\ltrflat\startTrillSpan(
     ges1~
-    ges4 f2.
+    ges8\stopTrillSpan \times 2/3 {e16 aes e} f2.)
     R1
     \clef bass
     r4 b,,,2\mf\obscuro( bes4~
-    bes) \times 2/3 {bes4 bes bes} e4~(
+    bes) \times 2/3 {bes4-.-- bes-.-- bes-.--} e4~(
     e dis2.)
     \clef tenor
-    r2 ges''(
-    f) \times 2/3 {f4 f f}
-    b1(
+    r4 \times 4/6 {aes''16( c bes des f ees} ges2
+    f) \times 2/3 {f4-.-- g-.-- ees-.--}
+    b'1(
     ais)
     R1*2
     r8 e4\mp ees8( d2)
     \clef bass
     r8 b,,8~\energico( b2.
     b4 d4. des8 c4~
-    c8 dis4 cis8 e4 g( 
+    c8 dis4 cis8 e4 g(
     g f) e8->( f4.
     e8-> dis4.) b8\p\<\leggero( cis dis eis
     \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
