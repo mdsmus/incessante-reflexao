@@ -110,7 +110,7 @@ gestoAoboe = {
 
 gestoBoboe = {
   \relative c'' {
-    R1*11
+    R1*9
     r2 a\mf(
     gis) \times 2/3 {gis4-.-- gis-.-- gis-.--}
     d'2( cis)

@@ -70,13 +70,12 @@ gestoAclarineteembb = {
 gestoBclarineteembb = {
   \relative c'' {
     R1*3
-    r2. d4~\mp
-    d2. \acciaccatura e8 c4~(
+    d2.\mp \acciaccatura e8 c4~(
     c8 bes16 aes ges16) c8. \acciaccatura des8 \times 2/3 {c4-.-- c-.-- c-.--}
     fis2. \acciaccatura e8 fis8.( a16-.)
     fis2( a8) bes16( g) fis8.\trill e16~
     e1
-    R1*5
+    R1*4
     r4 fis,,2~\mf\obscuro ( eis4~
     eis) \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~\startTrillSpan(
     cis2\stopTrillSpan bis)

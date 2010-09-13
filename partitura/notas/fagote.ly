@@ -56,7 +56,7 @@ gestoAfagote = {
 
 gestoBfagote = {
   \relative c' {
-    R1*7
+    R1*5
     \clef tenor
     r4 des4.~\mp( ees8 \times 2/3 {des ees des}
     des16 ees des ees des c bes des c2)

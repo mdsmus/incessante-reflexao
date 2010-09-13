@@ -118,7 +118,7 @@ gestoBflauta = {
     gis2 \times 2/3 {a16 e g} fis4.~
     fis2~ fis~:64
     fis4:64) r r2
-    R1*7
+    R1*5
     \acciaccatura f''8\f ees1(
     d)
     \times 2/3 {d2->-- d->-- d->--}

@@ -36,7 +36,7 @@ gestoBglobal = {
   \padraoglobal
   \tempo 4=80
   \mark \default
-  s1*23
+  s1*21
   \mark \default
   s1*4
   \mark \default
