@@ -125,7 +125,7 @@ gestoBflauta = {
     aes'1(
     g2~ g:64)
     R1*3
-    r8 g4\f( fis4.) \times 2/3 {fis8 fis fis}
+    r8 g4\f \acciaccatura {a8} fis4. \times 2/3 {fis8-.-- fis-.-- fis-.--}
     c'4( b2) r4
     b,1\energico
     d2( f

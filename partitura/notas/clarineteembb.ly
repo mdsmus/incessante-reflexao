@@ -81,10 +81,10 @@ gestoBclarineteembb = {
     eis) \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~\startTrillSpan(
     cis2\stopTrillSpan bis)
     r d''~(
-    d8 cis4.) \times 2/3 {cis4 cis cis}
+    d8 cis4.) \times 2/3 {cis4-.-- dis-.-- e-.--}
 
     %% observar ligadura
-    g'2. fis4~
+    g2. fis4~
     fis2 r
     R1
     r8 des4\mp c8( b2)
