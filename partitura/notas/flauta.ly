@@ -112,12 +112,12 @@ gestoAflauta = {
 
 gestoBflauta = {
   \relative c' {
-    e1~\mp\obscuro(
-    e2 d~
-    d4) \times 2/3 {d4 d d} gis4~(
-    gis2~ gis8 fis4.~
-    fis1~
-    fis4) r r2
+    e1~\obscuro\p\<(
+    e4. \times 2/3 {d16 c fis} d4~\! \times 2/3 {d16) e( c} fis8~
+    fis8) c16( e) \times 2/3 {d4-.-- d-.-- d-.--} gis4~
+    gis4 \acciaccatura c8 gis4~ gis8 \acciaccatura ais8 fis4.~
+    fis1~:64
+    fis4:64 r r2
     R1*7
     \acciaccatura f''8\f ees1(
     d)
