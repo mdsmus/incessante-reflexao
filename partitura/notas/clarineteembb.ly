@@ -72,11 +72,12 @@ gestoBclarineteembb = {
     R1*3
     d4.\mp \acciaccatura bes8 d4. \acciaccatura aes8 c4~
     c2 \times 2/3 {c4-.-- c-.-- c-.--}
-    fis2. fis8. fis16~
-    fis2. fis8. e16~
-    e1
-    R1*3
-    r4 fis,,2~\mf\obscuro ( eis4~
+    fis2 \times 4/5 {e16( c ais' fis d} gis4~
+    gis2~ \times 4/6 {gis16) d( ais' e c gis'} fis8.[ e16~]
+    \times 4/7 {e8) d-- c-- bes-- aes-- ges-- e~} e2~:64
+    e8:64 r r2.
+    R1*2
+    r4 fis,2~\mf\obscuro ( eis4~
     eis) \times 2/3 {eis4 eis eis} cis'4~(
     cis2 bis)
     r d''~(
