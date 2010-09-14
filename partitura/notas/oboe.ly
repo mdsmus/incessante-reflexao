@@ -113,11 +113,11 @@ gestoBoboe = {
     R1*8
     r2 a8.\mf( ais32 b  c8 b16 a
     gis2) \times 2/3 {gis4-.-- gis-.-- gis-.--}
-    d'4.~( \times 2/3 {d16 b e} cis4. \times 2/3 {b16 a d)}
-    R1
-    r4 r8 f~ f4~ f8 e~
-    e4 \times 2/3 {e4 e e} bes'4~
-    bes a2.
+    d'4.~( \times 2/3 {d16 b e} cis4. \times 2/3 {b16 a d}
+    cis16) r8. r2.
+    r8 \times 2/3 {ges16[( aes bes]} \times 2/3 {c d e} f8~ f4~ f8 e~
+    e4) \times 2/3 {e4-.-- e-.-- e-.--} bes'4~(
+    \times 4/5 {bes16 f c g' bes} a2.)
     R1*3
     r8 f4\mp e8( dis2)
     r8 b~\energico( b2.~
