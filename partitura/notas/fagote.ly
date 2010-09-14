@@ -69,7 +69,7 @@ gestoBfagote = {
     e dis2.)
     \clef tenor
     r2 ges''(
-    f) \times 2/3 {f4 f f}
+    f) \times 2/3 {f4-.-- f-.-- f-.--}
     b1(
     ais)
     R1

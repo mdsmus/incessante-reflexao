@@ -36,11 +36,11 @@ gestoAtrompaemf = {
 gestoBtrompaemf = {
   \relative c'' {
     R1*8
-    a4\stopped\mf \times 2/3 {a8\stopped a\stopped a\stopped} a8\stopped a\stopped gis\stopped d~\stopped
+    a4\stopped\mf \times 2/3 {a8-.\stopped a-.\stopped a-.\stopped} a8-.\stopped a-.\stopped gis-.\stopped d~\stopped
     d1\stopped
     R1*2
     \transpose a g' {
-      a4\stopped \times 2/3 {a8\stopped a\stopped a\stopped} a8\stopped a\stopped gis\stopped d~\stopped
+      a4\stopped \times 2/3 {a8-.\stopped a-.\stopped a-.\stopped} a8-.\stopped a-.\stopped gis-.\stopped d~\stopped
       d1\stopped
     }
     R1
