@@ -117,14 +117,14 @@ gestoBflauta = {
     fis8) c16( e) \times 2/3 {d4-.-- d-.-- d-.--} gis4~
     gis4 \acciaccatura c8 gis4~ gis8 \acciaccatura ais8 fis4.~
     fis1~:64
-    fis4:64 r r2
-    R1*7
+    fis2:64 r2
+    R1*4
     \acciaccatura f''8\f ees1(
     d)
     \times 2/3 {d2 d d}
     aes'1(
     g)
-    R1*3
+    R1*2
     r8 g4\f( fis4.) \times 2/3 {fis8 fis fis}
     c'4( b2) r4
     b,1\energico

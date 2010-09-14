@@ -3,7 +3,7 @@ gestoAicode = {
 }
 
 gestoBicode = {
-  R1*4/4*47
+  R1*4/4*43
 }
 
 gestoCicode = {

@@ -56,14 +56,13 @@ gestoAfagote = {
 
 gestoBfagote = {
   \relative c' {
-    R1*7
+    R1*5
     \clef tenor
     r4 des2.~\mp(
     des2 c)
     \times 2/3 {c4 c c} ges'2~
     ges1~
     ges4 f2.
-    R1
     \clef bass
     r4 b,,,2\mf\obscuro( bes4~
     bes) \times 2/3 {bes4 bes bes} e4~(
@@ -73,12 +72,12 @@ gestoBfagote = {
     f) \times 2/3 {f4 f f}
     b1(
     ais)
-    R1*2
+    R1
     r8 e4\mp ees8( d2)
     \clef bass
     r8 b,,8~\energico( b2.
     b4 d4. des8 c4~
-    c8 dis4 cis8 e4 g( 
+    c8 dis4 cis8 e4 g(
     g f) e8->( f4.
     e8-> dis4.) b8\p\<\leggero( cis dis eis
     \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~

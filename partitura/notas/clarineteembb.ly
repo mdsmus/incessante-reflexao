@@ -57,7 +57,7 @@ gestoAclarineteembb = {
       e2 r
     }
     %%
-    g16\mf( a bes c bes a g fis 
+    g16\mf( a bes c bes a g fis
     \repeat unfold 7 {
       g a bes c bes a g fis
     }
@@ -70,23 +70,21 @@ gestoAclarineteembb = {
 gestoBclarineteembb = {
   \relative c'' {
     R1*3
-    r2. d4~\mp(
-    d2. c4~
-    c2) \times 2/3 {c4 c c}
+    d4.\mp \acciaccatura bes8 d4. \acciaccatura aes8 c4~
+    c2 \times 2/3 {c4-.-- c-.-- c-.--}
     fis2. fis8. fis16~
     fis2. fis8. e16~
     e1
-    R1*5
+    R1*3
     r4 fis,,2~\mf\obscuro ( eis4~
     eis) \times 2/3 {eis4 eis eis} cis'4~(
-    cis2 bis) 
+    cis2 bis)
     r d''~(
     d8 cis4.) \times 2/3 {cis4 cis cis}
 
     %% observar ligadura
     g'2. fis4~
     fis2 r
-    R1
     r8 des4\mp c8( b2)
     r8 cis,,~\energico( cis2.~
     cis4 e4. ees8 d4~
@@ -117,7 +115,7 @@ gestoBclarineteembb = {
       cis,2. r4
       g2. r4
       cis,1\pp
-      R1      
+      R1
     }
   }
 }
@@ -193,7 +191,7 @@ gestoDclarineteembb = {
     R1*4
     r4 fis,2~\mf\obscuro ( eis4~
     eis) \times 2/3 {eis4 eis eis} cis'4~(
-    cis2 bis) 
+    cis2 bis)
     r d''~(
     d8 cis4.) \times 2/3 {cis4 cis cis}
     g'2. fis4~

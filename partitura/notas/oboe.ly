@@ -110,7 +110,7 @@ gestoAoboe = {
 
 gestoBoboe = {
   \relative c'' {
-    R1*11
+    R1*8
     r2 a\mf(
     gis) \times 2/3 {gis4 gis gis}
     d'2( cis)
@@ -118,7 +118,7 @@ gestoBoboe = {
     r4 r8 f~ f4~ f8 e~
     e4 \times 2/3 {e4 e e} bes'4~
     bes a2.
-    R1*4
+    R1*3
     r8 f4\mp e8( dis2)
     r8 b~\energico( b2.~
     b4 d4. des8 c4~
