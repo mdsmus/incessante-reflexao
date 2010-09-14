@@ -111,9 +111,9 @@ gestoAoboe = {
 gestoBoboe = {
   \relative c'' {
     R1*8
-    r2 a\mf(
-    gis) \times 2/3 {gis4 gis gis}
-    d'2( cis)
+    r2 a8.\mf( ais32 b  c8 b16 a
+    gis2) \times 2/3 {gis4-.-- gis-.-- gis-.--}
+    d'4.~( \times 2/3 {d16 b e} cis4. \times 2/3 {b16 a d)}
     R1
     r4 r8 f~ f4~ f8 e~
     e4 \times 2/3 {e4 e e} bes'4~
