@@ -78,7 +78,7 @@ gestoBclarineteembb = {
     e8:64 r r2.
     R1*2
     r4 fis,2~\mf\obscuro ( eis4~
-    eis) \times 2/3 {eis4 eis eis} cis'4~(
+    eis) \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~(
     cis2 bis)
     r d''~(
     d8 cis4.) \times 2/3 {cis4 cis cis}

@@ -60,12 +60,12 @@ gestoBfagote = {
     \clef tenor
     r4 des2.~\mp(
     des2 c)
-    \times 2/3 {c4 c c} ges'2~
+    \times 2/3 {c4-.-- c-.-- c-.--} ges'2~
     ges1~
-    ges4 f2.
+    ges8 \times 2/3 {e16( d aes'} f2.)
     \clef bass
     r4 b,,,2\mf\obscuro( bes4~
-    bes) \times 2/3 {bes4 bes bes} e4~(
+    bes) \times 2/3 {bes4-.-- bes-.-- bes-.--} e4~(
     e dis2.)
     \clef tenor
     r2 ges''(
