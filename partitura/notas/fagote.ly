@@ -35,7 +35,10 @@ gestoAfagote = {
     \transpose aes f' {
       aes16( g f g \repeat unfold 3 { aes g f g } aes8) r
     }
-    aes'16( g f g \repeat unfold 12 { aes g f g } aes8) r r2.
+    \crescTextCresc
+    aes'16\<( g f g \repeat unfold 12 { aes g f g }
+    aes8)\ff r r2.
+    \crescHairpin
     R1
     \clef bass
     \transpose aes f {

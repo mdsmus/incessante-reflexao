@@ -37,8 +37,10 @@ gestoAclarineteembb = {
       dis16( e dis cis \repeat unfold 3 { dis e dis cis }
       dis8) r
     }
-      dis'16( e dis cis \repeat unfold 11 { dis e dis cis }
-      dis8) r r2.
+      \crescTextCresc
+      dis'16\<( e dis cis \repeat unfold 11 { dis e dis cis }
+      dis8)\ff r r2.
+    \crescHairpin
     R1
 
     %% transposição do material do fagote

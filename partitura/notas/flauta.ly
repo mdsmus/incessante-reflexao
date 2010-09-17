@@ -63,11 +63,12 @@ gestoAflauta = {
       }
       \transpose b gis' {
         \relative {
-          b16( cis d e d cis b ais
-          \repeat unfold 4 {
-            b cis d e d cis b ais
-          }
-          e'?8) r r2.
+          \crescTextCresc
+          b16\<( cis d e d cis b ais
+          g f e d e f g a b c d e f e d cis
+          b a b cis d e f g a b a g f e f g
+          a8)\ff r r2.
+          \crescHairpin
         }
       }
       R1

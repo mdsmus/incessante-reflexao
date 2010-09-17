@@ -56,12 +56,14 @@ gestoAoboe = {
     }
     \transpose b aes'' {
       \relative {
-        b16( cis d e d cis b ais
+        \crescTextCresc
+        b16\<( cis d e d cis b ais
         \repeat unfold 4 {
           b cis d e d cis b ais
         }
         b cis d e
-        eis?8) r r2.
+        eis?8)\ff r r2.
+        \crescHairpin
       }
     }
     R1

@@ -18,8 +18,10 @@ gestoAtrompaemf = {
     aes'4. r8 \times 2/3 {aes4-.-- aes-.-- aes-.--}
     aes4-- aes-- g-- cis,~
     cis2. r4
-    R1*2
-    r2. r8 d\f~(
+    \crescTextCresc
+    r2. r8 f8\mf\<
+    e d e d e f e d
+    e f e d e f e d\ff~(
     d1
     f2 aes
     e1)
