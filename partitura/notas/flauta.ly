@@ -77,8 +77,9 @@ gestoAflauta = {
         %% transposição do material do fagote
         \transpose aes c' {
           r2 r4 aes16\mf( g f g \repeat unfold 3 { aes g f g } aes8) r
-          R1*2
-          aes16( g f g \repeat unfold 2 { aes g f g } aes8) r
+          r2 des2~\pp
+          des2.~ des8 r8
+          aes16\mf( g f g \repeat unfold 2 { aes g f g } aes8) r
         }
       }
       R1
