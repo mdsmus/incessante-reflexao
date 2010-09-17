@@ -61,13 +61,14 @@ gestoAclarineteembb = {
       e2 r
     }
     %%
-    g16\mf( a bes c bes a g fis
-    \repeat unfold 7 {
-      g a bes c bes a g fis
+    r4 \times 4/5 {bes'16->\mf( a g f e~} e8) r \times 4/5 {bes'16->( a g f e~}
+    \repeat unfold 2 {
+      e8) r \times 4/5 {bes'16->( a g f e~}
     }
-    g a bes c bes\> a g fis g a bes c bes a g fis
-    g8)\p r r2.
-    R1*4/4*5
+    e8) r \times 4/5 {bes16->( a g f e~} e8) r \times 4/5 {bes16->( a g f e~}
+    e8) r r2.
+    R1*4/4*2
+    R1*4/4*3
   }
 }
 

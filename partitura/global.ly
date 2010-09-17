@@ -26,8 +26,7 @@ gestoAglobal = {
   \mark \default
   s1*16
   \mark \default
-  s1*22
-  s4. s8\fermata s2
+  s1*19
   \bar "||"
 }
 

@@ -77,40 +77,32 @@ gestoAoboe = {
         b16 cis d e d cis b ais b cis d e
         d4~
         d1~
-        d4)
+        %% 1/2 compasso
+        d4) r4
       }
     }
-    \transpose b aes'' {
-      \relative {
-        r4 b16\mf( cis d e d cis b ais
-        \repeat unfold 5 {
-          b cis d e d cis b ais
-        }
-        b8) r r4
+    %% 1/2 compasso
+    r4 \times 4/5 {bes'16->\mf( a g f e~}
+    \repeat unfold 3 {
+      \repeat unfold 2 {
+        e8) r \times 4/5 {bes'16->( a g f e~}
       }
     }
-    \transpose b aes'' {
-      \relative {
-        r2 b16( cis d e d cis b ais
-        \repeat unfold 4 {
-          b cis d e d cis b ais
-        }
-        b8) r r2.
-      }
-    }
-    r2 r4 b~\mf\dolce
+    e8) r r2.
+    r2 e2~\p\<
+    e1~\!
+    \times 4/5 {e4 d8( c) b8~\startTrillSpan\dolce} b2~
     b1~
-    b8 r \times 2/3 {b4 b b} b4
+    b8\stopTrillSpan r \times 2/3 {b4 b b} b4
     b bes e,2~
     e1~\>
-    e\ppp
-    R1
   }
 }
 
 
 gestoBoboe = {
-  \relative c'' {
+  \relative c' {
+    e\ppp
     R1*8
     r2 a8.\mf( ais32 b  c8 b16 a
     gis4.) r8 \times 2/3 {gis4-.-- gis-.-- gis-.--}

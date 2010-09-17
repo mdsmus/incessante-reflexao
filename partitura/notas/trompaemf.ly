@@ -30,7 +30,11 @@ gestoAtrompaemf = {
     b4) r fis'2~
     fis8 r \times 2/3 {fis4-.-- fis-.-- fis-.--} fis4--
     fis-- f-- b,2
-    R1*4/4*14
+    R1*2
+    r2 fis2~\p
+    fis8 r \times 2/3 {fis4-.-- fis-.-- fis-.--} fis4--
+    fis-- f-- b,2
+    R1*4/4*7
   }
 }
 

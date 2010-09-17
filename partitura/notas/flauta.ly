@@ -83,28 +83,16 @@ gestoAflauta = {
         }
       }
       R1
-      \transpose b gis' {
-        \relative {
-          r2 b16\mf( cis d e d cis b ais
-          \repeat unfold 7 {
-            b cis d e d cis b ais
-          }
-          b8) r r4
-        }
-      }
-      \transpose b gis' {
-        \relative {
-          b16( cis d e d cis b ais
-          \repeat unfold 3 {
-            b cis d e d cis b ais
-          }
-          b cis d e d\> cis b ais
-          b cis d e d cis b ais
-          b8\p) r r2.
-        }
-      }
-      R1*6
     }
+    %% novo material
+    r2 \times 4/5 {bes'16->\mf( a g f e~} e8) r
+    \repeat unfold 5 {
+      \repeat unfold 2 {
+        \times 4/5 {bes'16->( a g f e~} e8) r
+      }
+    }
+    \times 4/5 {bes16->( a g f e~} e8)) r8 r2
+    R1*4
   }
 }
 
