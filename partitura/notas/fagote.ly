@@ -49,9 +49,8 @@ gestoAfagote = {
     \transpose aes f {
       r2. aes16 g f g(
       aes16 g f g \repeat unfold 2 { aes g f g } aes4~
-      aes2.~ aes8) r
-    }
-    r2. b,,4~\mf\energico
+      aes1~
+    aes4) r2} b,,4~\mf\energico
     b4. r8 \times 2/3 {b4-.-- b-.-- b-.--}
     b4-- b-- bes-- e,~
     e2 r

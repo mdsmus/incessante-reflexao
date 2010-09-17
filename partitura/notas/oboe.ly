@@ -76,12 +76,13 @@ gestoAoboe = {
         r2. d16( cis b ais
         b16 cis d e d cis b ais b cis d e
         d4~
-        d2.~ d8) r
+        d1~
+        d4)
       }
     }
     \transpose b aes'' {
       \relative {
-        r2 b16\mf( cis d e d cis b ais
+        r4 b16\mf( cis d e d cis b ais
         \repeat unfold 5 {
           b cis d e d cis b ais
         }
