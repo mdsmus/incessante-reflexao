@@ -72,17 +72,13 @@ gestoAflauta = {
         }
       }
       R1
-      \transpose b d {
-        \relative {
-          r2 r4 b16\mf( cis d e d cis b ais b cis d e d cis b ais
-          b8) r
-        }
-      }
-      R1*2
-      \transpose b d {
-        \relative {
-          b16( cis d e d cis b ais b cis d e
-          d8) r
+      %%
+      \transpose d b, {
+        %% transposição do material do fagote
+        \transpose aes c' {
+          r2 r4 aes16\mf( g f g \repeat unfold 3 { aes g f g } aes8) r
+          R1*2
+          aes16( g f g \repeat unfold 2 { aes g f g } aes8) r
         }
       }
       R1

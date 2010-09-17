@@ -67,15 +67,12 @@ gestoAoboe = {
       }
     }
     R1
-    \transpose b d' {
+    %%
+    \transpose b f' {
       \relative {
         r2 r4 b16\mf( cis d e d cis b ais b cis d e d cis b ais
         b8) r
-      }
-    }
-    R1*2
-    \transpose b d' {
-      \relative {
+        R1*2
         b16( cis d e d cis b ais b cis d e
         d8) r
       }

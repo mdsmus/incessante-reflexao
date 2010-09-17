@@ -1,4 +1,4 @@
-%% clarineteembb.ly
+% clarineteembb.ly
 \version "2.12.0"
 \include "newcommand.ly"
 
@@ -42,14 +42,15 @@ gestoAclarineteembb = {
       dis8)\ff r r2.
     \crescHairpin
     R1
-
-    %% transposição do material do fagote
-    \transpose aes c' {
-      r2 r4 aes16\mf( g f g \repeat unfold 3 { aes g f g } aes8) r
-    }
-    R1*2
-    \transpose aes c' {
-      aes16( g f g \repeat unfold 2 { aes g f g } aes8) r
+    %%
+    \transpose b d' {
+      \relative {
+        r2 r4 b16\mf( cis d e d cis b ais b cis d e d cis b ais
+        b8) r
+        R1*2
+        b16( cis d e d cis b ais b cis d e
+        d8) r
+      }
     }
     R1
     \transpose b cis' {
