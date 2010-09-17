@@ -47,8 +47,8 @@ gestoAclarineteembb = {
       \relative {
         r2 r4 b16\mf( cis d e d cis b ais b cis d e d cis b ais
         b8) r
-        b1~\pp
-        b2.~ b8 r
+        b1~\pp(
+        b2 ais4.) r8
         b16\mf( cis d e d cis b ais b cis d e
         d8) r
       }
@@ -56,8 +56,8 @@ gestoAclarineteembb = {
     R1
     \transpose b cis' {
       r2. b4~\mf\energico
-      b4. r8 \times 2/3 {b4 b b}
-      b4 b bes e~
+      b4. r8 \times 2/3 {b4-.-- b-.-- b-.--}
+      b4-- b-- bes-- e~
       e2 r
     }
     %%
