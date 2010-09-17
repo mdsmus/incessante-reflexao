@@ -19,9 +19,8 @@ gestoAtrompaemf = {
     aes4-- aes-- g-- cis,~
     cis2. r4
     \crescTextCresc
-    r2. r8 f8\mf\<
-    e d e d e f e d
-    e f e d e f e d\ff~(
+    r2. r8 d8-.\mf\<
+    \repeat unfold 15 {d8-.} d\ff~(
     d1
     f2 aes
     e1)
