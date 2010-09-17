@@ -120,20 +120,20 @@ gestoBflauta = {
     fis2:64 r2
     R1*4
     \acciaccatura f''8\f ees1(
-    d)
+    d2.~ d8) r8
     d4~-> \times 2/3 {d8 d4->~} \times 2/3 {d4 d8~->} d4
     aes'2..( \times 2/3 {g16 f bes}
     g1~
     g4) r2.
     R1
-    r8 g4\f( fis4.) \times 2/3 {fis8-.-> fis-.-> fis-.->}
+    r8 g4\f( fis4) r8 \times 2/3 {fis8-.-> fis-.-> fis-.->}
     c'4( b2) r4
     b,1\energico
     d2( f
     cis a)
     ges'1
     r4 f2.~
-    f2 \times 2/3 {f4 f f}
+    f4. r8 \times 2/3 {f4 f f}
     f4 f e bes~
     bes1~
     bes2 b~
@@ -142,7 +142,7 @@ gestoBflauta = {
     fis r2.
     r fis4
     r fis''2.~\f
-    fis2 \times 2/3 {fis4 fis fis}
+    fis4. r8 \times 2/3 {fis4 fis fis}
     fis4 fis f b,~
     \dimTextDecresc {
       b1~\>
@@ -222,7 +222,7 @@ gestoDflauta = {
     b\p r r2
     R1*3
     \acciaccatura f'8\f ees1(
-    d)
+    d2.~ d8) r
     \times 2/3 {d2 d d}
     aes'1(
     g)

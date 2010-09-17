@@ -47,7 +47,7 @@ gestoAfagote = {
     }
     R1
     r2. b,,4~\mf\energico
-    b2 \times 2/3 {b4 b b}
+    b4. r8 \times 2/3 {b4 b b}
     b4 b bes e,~
     e2 r
     R1*4/4*11
@@ -59,17 +59,17 @@ gestoBfagote = {
     R1*5
     \clef tenor
     r4 des2.~\mp(
-    des2 c)
+    des2 c4.) r8
     \times 2/3 {c4-.-- c-.-- c-.--} ges'2~
     ges1~
     ges8 \times 2/3 {e16( d aes'} f2.)
     \clef bass
     r4 b,,,2\mf\obscuro( bes4~
-    bes) \times 2/3 {bes4-.-- bes-.-- bes-.--} e4~(
+    bes8) r \times 2/3 {bes4-.-- bes-.-- bes-.--} e4~(
     e dis2.)
     \clef tenor
     r2 ges''(
-    f) \times 2/3 {f4-.-- f-.-- f-.--}
+    f4.) r8 \times 2/3 {f4-.-- f-.-- f-.--}
     b1(
     ais)
     R1
@@ -128,7 +128,7 @@ gestoDfagote = {
   \clef bass
   \relative c {
     g1\f~
-    g4 \times 2/3 {g4 g g} g4
+    g8 r \times 2/3 {g4 g g} g4
     g fis c2~
     c1~\>
     c1\ppp
@@ -139,12 +139,12 @@ gestoDfagote = {
     R1*3
     \clef bass
     r4 b,,,2\mf\obscuro bes4~
-    bes \times 2/3 {bes4 bes bes} e4~
+    bes8 r \times 2/3 {bes4 bes bes} e4~
     e dis2.
     r2
     \clef tenor
     ges''
-    f \times 2/3 {f4 f f}
+    f4. r8 \times 2/3 {f4 f f}
     b1
     ais
     r2

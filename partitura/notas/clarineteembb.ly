@@ -52,7 +52,7 @@ gestoAclarineteembb = {
     R1
     \transpose b cis' {
       r2. b4~\mf\energico
-      b2 \times 2/3 {b4 b b}
+      b4. r8 \times 2/3 {b4 b b}
       b4 b bes e~
       e2 r
     }
@@ -71,17 +71,17 @@ gestoBclarineteembb = {
   \relative c'' {
     R1*3
     d4.\mp \acciaccatura bes8 d4. \acciaccatura aes8 c4~
-    c2 \times 2/3 {c4-.-- c-.-- c-.--}
+    c4. r8 \times 2/3 {c4-.-- c-.-- c-.--}
     fis2 \times 4/5 {e16( c ais' fis d} gis4~
     gis2~ \times 4/6 {gis16) d( ais' e c gis'} fis8.[ e16~]
     \times 4/7 {e8) d-- c-- bes-- aes-- ges-- e~} e2~:64
     e8:64 r r2.
     R1*2
     r4 fis,2~\mf\obscuro ( eis4~
-    eis) \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~(
+    eis8) r \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~(
     cis2 bis)
     r d''~(
-    d8 cis4.) \times 2/3 {cis4-.-- cis-.-- cis-.--}
+    d8 cis4) r8 \times 2/3 {cis4-.-- cis-.-- cis-.--}
 
     %% observar ligadura
     g'2~( g8~ \times 2/3 {g16 e cis} fis4~
@@ -191,10 +191,10 @@ gestoDclarineteembb = {
     aes\)\p r r2
     R1*4
     r4 fis,2~\mf\obscuro ( eis4~
-    eis) \times 2/3 {eis4 eis eis} cis'4~(
+    eis8) r \times 2/3 {eis4 eis eis} cis'4~(
     cis2 bis)
     r d''~(
-    d8 cis4.) \times 2/3 {cis4 cis cis}
+    d8 cis4) r8 \times 2/3 {cis4 cis cis}
     g'2. fis4~
     fis1
     R1

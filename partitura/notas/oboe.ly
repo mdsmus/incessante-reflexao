@@ -99,7 +99,7 @@ gestoAoboe = {
     }
     r2 r4 b~\mf\dolce
     b1~
-    b4 \times 2/3 {b4 b b} b4
+    b8 r \times 2/3 {b4 b b} b4
     b bes e,2~
     e1~\>
     e\ppp
@@ -112,11 +112,11 @@ gestoBoboe = {
   \relative c'' {
     R1*8
     r2 a8.\mf( ais32 b  c8 b16 a
-    gis2) \times 2/3 {gis4-.-- gis-.-- gis-.--}
+    gis4.) r8 \times 2/3 {gis4-.-- gis-.-- gis-.--}
     d'4.~( \times 2/3 {d16 b e} cis4. \times 2/3 {b16 a d}
     a2..) r8
     r8 \times 2/3 {ges16[( aes bes]} \times 2/3 {c d e} f8~ f4~ f8 e~
-    e4) \times 2/3 {e4-.-- e-.-- e-.--} bes'4~(
+    e8) r \times 2/3 {e4-.-- e-.-- e-.--} bes'4~(
     \times 4/5 {bes16 f c g' bes} a2.~
     a4 \times 4/7 {a8) g-- f-- ees-- des-- b-- a--} r4
     R1*2
@@ -188,11 +188,11 @@ gestoDoboe = {
     ais\p r r2
     R1
     r2 a\mf(
-    gis) \times 2/3 {gis4 gis gis}
+    gis4.) r8 \times 2/3 {gis4 gis gis}
     d'2( cis)
     R1
     r4 r8 f~ f4~ f8 e~
-    e4 \times 2/3 {e4 e e} bes'4~
+    e8 r \times 2/3 {e4 e e} bes'4~
     bes a2.
     R1*2
     r4 d,16\mf\agitato( e f g f e d cis d e f g

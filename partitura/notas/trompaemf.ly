@@ -12,10 +12,10 @@ gestoAtrompaemf = {
     fis4) r2.
     R1*2
     r2. ges4\f~
-    ges \times 2/3 {ges4 ges ges} ges4
+    ges8 r \times 2/3 {ges4 ges ges} ges4
     ges f b,2~
     b r
-    aes' \times 2/3 {aes4 aes aes}
+    aes'4. r8 \times 2/3 {aes4 aes aes}
     aes4 aes g cis,~
     cis2. r4
     R1*2
@@ -27,7 +27,7 @@ gestoAtrompaemf = {
     a~ c
     ees b~
     b4) r fis'2~
-    fis4 \times 2/3 {fis4 fis fis} fis4
+    fis8 r \times 2/3 {fis4 fis fis} fis4
     fis f b,2
     R1*4/4*14
   }
@@ -45,7 +45,7 @@ gestoBtrompaemf = {
     }
     R1
     r2 d\open
-    cis \times 2/3 {cis4 cis cis}
+    cis4. r8 \times 2/3 {cis4 cis cis}
     g'2 fis
     R1
     r8 fis~\energico( fis2.~
@@ -109,7 +109,7 @@ gestoDtrompaemf = {
     R1*6
     b1~\mp\<\cantabile(
     b2 a\mf~
-    a4) \times 2/3 {a4 a a} dis4~(
+    a8) r \times 2/3 {a4 a a} dis4~(
     dis2~ dis8 cis4.~
     cis1~
     cis4) r r2
