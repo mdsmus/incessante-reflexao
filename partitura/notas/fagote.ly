@@ -54,7 +54,7 @@ gestoAfagote = {
     b4. r8 \times 2/3 {b4-.-- b-.-- b-.--}
     b4-- b-- bes-- e,~
     e2 r
-    R1*4/4*9
+    R1*8
   }
 }
 

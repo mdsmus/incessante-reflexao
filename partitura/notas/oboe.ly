@@ -93,8 +93,8 @@ gestoAoboe = {
     e1~\!
     \times 4/5 {e4 d8( c) b8~\startTrillSpan\dolce} b2~
     b1~
-    b8\stopTrillSpan r \times 2/3 {b4 b b} b4
-    b bes e,2~
+    b8\stopTrillSpan r \times 2/3 {b4-.-- b-.-- b-.--} b4--
+    b-- bes-- e,2~
     e1~\>
   }
 }
@@ -103,7 +103,7 @@ gestoAoboe = {
 gestoBoboe = {
   \relative c' {
     e\ppp
-    R1*8
+    R1*7
     r2 a8.\mf( ais32 b  c8 b16 a
     gis4.) r8 \times 2/3 {gis4-.-- gis-.-- gis-.--}
     d'4.~( \times 2/3 {d16 b e} cis4. \times 2/3 {b16 a d}

@@ -92,7 +92,7 @@ gestoAflauta = {
       }
     }
     \times 4/5 {bes16->( a g f e~} e8)) r8 r2
-    R1*4
+    R1*5
   }
 }
 

@@ -67,8 +67,7 @@ gestoAclarineteembb = {
     }
     e8) r \times 4/5 {bes16->( a g f e~} e8) r \times 4/5 {bes16->( a g f e~}
     e8) r r2.
-    R1*4/4*2
-    R1*4/4*3
+    R1*4
   }
 }
 

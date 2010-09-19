@@ -20,7 +20,7 @@ gestoAtrompaemf = {
     cis2. r4
     \crescTextCresc
     r2. d4-.\mf\<
-    \repeat unfold 7 {d4-.--} d8-.-- d\ff~(
+    \repeat unfold 7 {d4-.--} d4\ff~(
     d1
     f2 aes
     e1)
@@ -34,7 +34,7 @@ gestoAtrompaemf = {
     r2 fis2~\p
     fis8 r \times 2/3 {fis4-.-- fis-.-- fis-.--} fis4--
     fis-- f-- b,2
-    R1*4/4*7
+    R1*6
   }
 }
 
