@@ -52,8 +52,8 @@ gestoBtrompaemf = {
     r2 d\open
     cis4. r8 \times 2/3 {cis4 cis cis}
     g'2 fis
-    R1
-    r8 fis~\energico( fis2.~
+    r8 d'4--\f des8( c2)
+    r8 fis,~\energico( fis2.~
     fis4 a4. aes8 g4~
     g8 ais4 gis8 b4 d~
     d c) b8->( c4.

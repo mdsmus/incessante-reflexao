@@ -111,9 +111,10 @@ gestoBoboe = {
     r8 \times 2/3 {ges16[( aes bes]} \times 2/3 {c d e} f8~ f4~ f8 e~
     e8) r \times 2/3 {e4-.-- e-.-- e-.--} bes'4~(
     \times 4/5 {bes16 f c g' bes} a2.~
-    a4 \times 4/7 {a8) g-- f-- ees-- des-- b-- a--} r4
-    R1*2
-    r8 f'4\mp e8( dis2)
+    a4 \times 4/7 {a8)\> g-- f-- ees-- des-- b-- a~--\p} a4~
+    a1~
+    a2. r4
+    r8 f'4--\f e8( dis2)
     r8 b~\energico( b2.~
     b4 d4. des8 c4~
     c8 dis4 cis8 e4 g~

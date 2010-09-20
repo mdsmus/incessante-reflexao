@@ -113,7 +113,7 @@ gestoBflauta = {
     g4) r2.
     R1
     r8 g4\f( fis4) r8 \times 2/3 {fis8-.-> fis-.-> fis-.->}
-    c'4( b2) r4
+    c'4( b2\trill) r4
     b,1\energico
     d2( f
     cis a)

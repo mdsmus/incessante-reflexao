@@ -75,9 +75,9 @@ gestoBfagote = {
     r2 ges''(
     f4.) r8 \times 2/3 {f4-.-- f-.-- f-.--}
     b1(
-    ais)
-    R1
-    r8 e4\mp ees8( d2)
+    ais~
+    ais1)
+    r8 e4--\f ees8( d2)
     \clef bass
     r8 b,,8~\energico( b2.
     b4 d4. des8 c4~

@@ -89,8 +89,8 @@ gestoBclarineteembb = {
 
     %% observar ligadura
     g'2~( g8~ \times 2/3 {g16 e cis} fis4~
-    fis2) r
-    r8 des4\mp c8( b2)
+    fis2.) r4
+    r8 des4--\f c8( b2)
     r8 cis,,~\energico( cis2.~
     cis4 e4. ees8 d4~
     d8 f4 dis8 fis4 a~
