@@ -123,7 +123,7 @@ gestoBflauta = {
     f4-- f-- e-- bes~
     bes1~
     bes4~ \times 2/3 {bes4 \acciaccatura c8 b8~} b2~
-    b4 r2.
+    b8 f32( d) g16~-> g2.:64
     r fis,4~\mp
     fis r2.
     r fis4

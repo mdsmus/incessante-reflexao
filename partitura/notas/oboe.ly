@@ -125,8 +125,8 @@ gestoBoboe = {
     des) ees4. \times 2/3 {f16( g bes}
     c!4--)\mf fis,2.~
     fis bes4->~\mp
-    bes2 r
-    r r8 f,4.~
+    bes2 r16 \acciaccatura e,8 f8.~ f4~
+    f4 r r8 f,4.~
     f2 r
     r r8 f4.~
     f2
