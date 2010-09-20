@@ -122,9 +122,9 @@ gestoBoboe = {
     aes8->( a4.)
     \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
     \times 4/5 {b8\mf\> a g f ees} des2~\p
-    des) ees
-    c'?4\mf fis,2.~
-    fis bes4~\mp
+    des) ees4. \times 2/3 {f16( g bes}
+    c!4--)\mf fis,2.~
+    fis bes4->~\mp
     bes2 r
     r r8 f,4.~
     f2 r

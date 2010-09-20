@@ -98,9 +98,9 @@ gestoBclarineteembb = {
     bes8->( b4.) \times 4/5 {ees,8\p\<\leggero( f g a b}
     \times 4/7 {cis8\mf\> dis cis b a g f} ees4\p f~
     f2) g(
-    bes) e'4\mf bes~
+    bes~ \times 2/3 {bes8) e'4~->\mf} e8 bes~
     bes1
-    b2. r8 fis,,~
+    b2.-> r8 fis,,~
     fis1~
     fis2. r8 fis~
     fis1~

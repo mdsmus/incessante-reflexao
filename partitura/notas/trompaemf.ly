@@ -62,7 +62,7 @@ gestoBtrompaemf = {
     e2) fis(
     a1)
     \clef treble
-    b'4 f2.~
+    b'4-> f2.~
     f1
     \clef bass
     r4 r8 a,?~\mp a2~
