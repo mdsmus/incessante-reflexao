@@ -79,11 +79,11 @@ gestoBfagote = {
     ais1)
     r8 e4--\f ees8( d2)
     \clef bass
-    r8 b,,8~\energico( b2.
-    b4 d4. des8 c4~
-    c8 dis4 cis8 e4 g(
-    g f) e8->( f4.
-    e8-> dis4.) b8\p\<\leggero( cis dis eis
+    r8 b,,8~\energico b2.~
+    b4 d4.( des8 c4~
+    c8) dis4( cis8 e4 g~
+    g f) e8->( f4.)
+    e8->( dis4.) b8\p\<\leggero( cis dis eis
     \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
     b2) cis(
     c?1~

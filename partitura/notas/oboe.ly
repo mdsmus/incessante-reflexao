@@ -115,11 +115,11 @@ gestoBoboe = {
     a1~
     a2. r4
     r8 f'4--\f e8( dis2)
-    r8 b~\energico( b2.~
-    b4 d4. des8 c4~
-    c8 dis4 cis8 e4 g~
-    g2) aes8->( g4.
-    aes8-> a4.)
+    r8 b~\energico b2.~
+    b4 d4.( des8 c4~
+    c8) dis4( cis8 e4 g~
+    g2) aes8->( g4.)
+    aes8->( a4.)
     \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
     \times 4/5 {b8\mf\> a g f ees} des2~\p
     des) ees

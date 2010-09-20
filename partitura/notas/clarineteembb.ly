@@ -91,11 +91,11 @@ gestoBclarineteembb = {
     g'2~( g8~ \times 2/3 {g16 e cis} fis4~
     fis2.) r4
     r8 des4--\f c8( b2)
-    r8 cis,,~\energico( cis2.~
-    cis4 e4. ees8 d4~
-    d8 f4 dis8 fis4 a~
-    a2) bes8->( a4.
-    bes8-> b4.) \times 4/5 {ees,8\p\<\leggero( f g a b}
+    r8 cis,,~\energico cis2.~
+    cis4 e4.( ees8 d4~
+    d8) f4( dis8 fis4 a~
+    a2) bes8->( a4.)
+    bes8->( b4.) \times 4/5 {ees,8\p\<\leggero( f g a b}
     \times 4/7 {cis8\mf\> dis cis b a g f} ees4\p f~
     f2) g(
     bes) e'4\mf bes~
