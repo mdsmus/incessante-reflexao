@@ -119,8 +119,8 @@ gestoBflauta = {
     cis a)
     ges'1
     r4 f2.~
-    f4. r8 \times 2/3 {f4 f f}
-    f4 f e bes~
+    f4. r8 \times 2/3 {f4-.-- f-.-- f-.--}
+    f4-- f-- e-- bes~
     bes1~
     bes2 b~
     b4 r2.
