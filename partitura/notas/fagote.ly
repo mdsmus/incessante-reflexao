@@ -132,6 +132,9 @@ gestoCfagote = {
     g8-.-> r a-. r b-. r cis-.
     g8-.-> r a-. r b-.
 
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
   }
 }
 

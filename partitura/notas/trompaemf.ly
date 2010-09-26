@@ -108,6 +108,8 @@ gestoCtrompaemf = {
     c8-.-> r d-. r e-. r fis-.
     c8-.-> r d-. r e-. r fis-.
     c8-.-> r d-. r e-.
+
+    c8-.-> r d-. r e-. r fis-.
   }
 }
 

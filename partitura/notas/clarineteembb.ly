@@ -130,13 +130,14 @@ gestoCclarineteembb = {
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
   \relative c' {
-    R1*7/8
+    b8-.->\mf r r4 r4.
     R1*5/8
 
-    R1*7/8*2
-    R1*5/8
+    dis8-.-> r r4 r4.
+    g8-.-> r r4 r4.
+    r4 r4 a8-.->
 
-    R1*7/8
+    b-.-> r b,8-.-> r r4.
     r2 r8. a16\mf( b g
     dis' cis f8~ f4.~
     f4~ \times 2/3 {f8) ees-. des-.} \times 2/3 {b-. a-. g-.} f8~(
@@ -144,7 +145,8 @@ gestoCclarineteembb = {
     f b~ b8~ b4.~
     b4) r r4.
 
-
+    g,8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
 
   }
 }

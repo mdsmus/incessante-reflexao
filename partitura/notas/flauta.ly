@@ -156,6 +156,7 @@ gestoCflauta = {
     f2~ f4) r16 ees(
     g des aes'8~\ltrflat\startTrillSpan aes4~ aes4.~
     aes4\stopTrillSpan) r4.
+    ees8-.-> r r4 ees8-.-> r4
   }
 }
 

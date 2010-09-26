@@ -155,20 +155,24 @@ gestoCoboe = {
   #(override-auto-beam-setting '(end * * 7 8) 2 8 )
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
-  \relative c'' {
+  \relative c' {
+    dis8-.->\mf r r4 r4.
+    R1*5/8
+
+    g8-.-> r r4 r4.
+    b8-.-> r r4 r4.
+    r4 r4 cis8-.->
+
+    dis-.-> r dis,8-.-> r r4.
     R1*7/8
     R1*5/8
 
-    R1*7/8*2
-    R1*5/8
-
-    R1*7/8*2
-    R1*5/8
-
-    R1*7/8
-    r4 r8 g8~\pp\< g4.~
+    des'8-.-> r r4 des8-.-> r4
+    r4 r8 g,8~\pp\< g4.~
     g4~ g4.\mf
-    \times 2/3 {ees16( f des)} bes'8~ bes4
+    \times 2/3 {ees16( f des)} bes'8~( bes4~ bes4.~
+    bes8 a8~ a8) f16( g b4.~
+    b4) r4.
   }
 }
 
