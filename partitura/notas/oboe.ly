@@ -152,26 +152,10 @@ gestoBoboe = {
 }
 
 gestoCoboe = {
-  %% transposicao do fagote
   #(override-auto-beam-setting '(end * * 7 8) 2 8 )
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
   \transpose g f {
-    \relative c'' {
-      g8-.\mf\marcatto r a-. r b-.[ r cis-.]
-      \repeat unfold 16 {
-        g-. r a-.[ r b-.]
-        g-. r a-. r b-.[ r cis-.]
-        g-. r a-. r b-.[ r cis-.]
-      }
-      g-. r a-.[ r b-.]
-      g-. r a-. r b-.[ r cis-.]
-    }
-  }
-  \relative c'' {
-    d\deciso gis, dis' a e' ais, f'~
-    f4~ f4.~
-    f2~ f4.
   }
 }
 

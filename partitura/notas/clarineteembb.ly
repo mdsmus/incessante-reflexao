@@ -130,59 +130,7 @@ gestoCclarineteembb = {
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
   \relative c'' {
-    R1*7/8
-    \repeat unfold 2 {
-      \time 5/8
-      R1*5/8
-      \time 7/8
-      R1*7/8*2
-    }
-    %% material da flauta transposto
-    \transpose f g' {
-      r8 f8~\mf\cantabile( f4.~
-      f2~ f4.~
-      f8 aes~ aes4~ aes4.)
-    }
-    R1*5/8
-    R1*7/8
-    g2~( g4.~
-    g4~ g8 bes4~
-    bes2~ bes8 cis4~
-    cis4~ cis8) r r4.
-    R1*5/8
-    R1*7/8*2
-    R1*5/8
-    R1*7/8
-    g2( bes4.~
-    bes4 cis4.~
-    cis4 a4~ a4.)
-    R1*7/8
-    R1*5/8
-    R1*7/8
-    r2 r8 g4~(
-    g bes4.~
-    bes4 cis~ cis4.
-    a4~ a4~ a8 d4~
-    d~ d4.)
-    R1*7/8*2
-    r4 r b8~
-    b2 b4 b8~
-    b b~ b b b( ais) dis,~
-    dis4~ dis4.
-    R1*7/8*2
-    g'4~( g4.
-    \appoggiatura {eis16[ dis cis b a]} g4) g g g8
-    g( fis) c4~:64 c4.:64
-    r4 \appoggiatura {a'16[ b cis dis f g a b cis]} gis4.~(
-    gis4 a8 gis~ gis a4
-    gis8 d~ d4) r4.
-    \appoggiatura {bes16[ c d e ges aes bes c d]} aes4~( aes4.
-    bes8 a~ a bes~ bes a dis,~
-    dis4) r bes'8( e,4~
-    e) r8 b'( f~
-    f4) r8 c'\deciso fis, cis' g d' gis, dis'4~ dis4.~
-    dis4~ dis4.~
-    dis2~ dis4.
+
   }
 }
 

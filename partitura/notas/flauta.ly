@@ -150,54 +150,10 @@ gestoCflauta = {
   \relative c'' {
     R1*7/8
     R1*5/8
-    R1*7/8*2
-    r8 f8~\mf\cantabile( f4.~
-    f2~ f4.~
-    f8 aes~ aes4~ aes4.~
-    aes4) r4.
     R1*7/8
-    r2 r8 f4~(
-    f~ f4.~
-    f2~ f8 aes4~
-    aes2~ aes4.
-    b4~ b4.~
-    b2) r4 r8
-    r4 r8 f~( f4.~
-    f4~ f4.~
-    f4~ f8 aes~ aes4.
-    aes2~ aes8 b4~
-    b~ b4.~
-    b4 g~ g4.)
-    R1*7/8
-    R1*5/8
-    R1*7/8
-    f2( aes4.~
-    aes4 b4.~
-    b4 g~ g4.
-    c2~ c4.)
-    R1*5/8
-    R1*7/8*2
-    r4 ges4.~
-    ges2 ges4 ges8~
-    ges ges~ ges ges ges( f) b,~
-    b4~ b4.
-    R1*7/8*2
-    r4 r8 ais'4~(
-    ais \appoggiatura {c16[ d e fis gis]} ais4) ais ais8~(
-    ais ais ais( a) dis,4.:64~
-    dis4:64 r4.
-    R1*7/8*2
-    r4 c4.~(
-    c4 des8 c~ c des4
-    c8 fis,~ fis4) r4.
-    cis'4~( cis4.
-    d8 cis~ cis d~ d cis g~
-    g4) r d'8( gis,4~
-    gis) r8 ees'( a,~
-    a4) r8 e'\deciso ais, f' b,
-    fis' c g'4~ g4.~
-    g4~ g4.~
-    g2~ g4.
+    r2 r4 g16\mf( a b
+    cis dis f8~ f4.~
+    f2~ f4) r8
   }
 }
 

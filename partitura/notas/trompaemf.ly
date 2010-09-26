@@ -90,22 +90,24 @@ gestoBtrompaemf = {
 }
 
 gestoCtrompaemf = {
-  %% transposicao do fagote
   #(override-auto-beam-setting '(end * * 7 8) 2 8 )
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
-  \relative c'' {
-    g8-.\mf\marcatto r a-. r b-.[ r cis-.]
-    \repeat unfold 16 {
-      g-. r a-.[ r b-.]
-      g-. r a-. r b-.[ r cis-.]
-      g-. r a-. r b-.[ r cis-.]
-    }
-    g-. r a-.[ r b-.]
-    g-. r a-. r b-.[ r cis-.]
-    g-. r r f'\deciso b, fis' c
-    g' des aes'4.~
-    aes2~ aes4.
+  \relative c' {
+    c8-.->\mf r d-. r e-. r fis-.
+    c8-.-> r d-. r e-.
+
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-.
+
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-.
+
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-. r fis-.
+    c8-.-> r d-. r e-.
   }
 }
 

@@ -117,14 +117,21 @@ gestoCfagote = {
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
   \relative c {
     \clef bass
-    g8-.\mf\marcatto r a-. r b-.[ r cis-.]
-    \repeat unfold 17 {
-      g-. r a-.[ r b-.]
-      g-. r a-. r b-.[ r cis-.]
-      g-. r a-. r b-.[ r cis-.]
-    }
-    bes\deciso f' b, ges' c,
-    g2~\< g4.~
+    g8-.->\mf r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
   }
 }
 
