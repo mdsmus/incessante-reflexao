@@ -155,7 +155,20 @@ gestoCoboe = {
   #(override-auto-beam-setting '(end * * 7 8) 2 8 )
   #(override-auto-beam-setting '(end * * 7 8) 4 8 )
   #(override-auto-beam-setting '(end * * 5 8) 2 8 )
-  \transpose g f {
+  \relative c'' {
+    R1*7/8
+    R1*5/8
+
+    R1*7/8*2
+    R1*5/8
+
+    R1*7/8*2
+    R1*5/8
+
+    R1*7/8
+    r4 r8 g8~\pp\< g4.~
+    g4~ g4.\mf
+    \times 2/3 {ees16( f des)} bes'8~ bes4
   }
 }
 

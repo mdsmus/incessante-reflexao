@@ -151,9 +151,11 @@ gestoCflauta = {
     R1*7/8
     R1*5/8
     R1*7/8
-    r2 r4 g16\mf( a b
-    cis dis f8~ f4.~
-    f2~ f4) r8
+    r2 r8. a16\mf( b g
+    dis' cis f8~ f4.~
+    f2~ f4) r16 ees(
+    g des aes'8~\ltrflat\startTrillSpan aes4~ aes4.~
+    aes4\stopTrillSpan) r4.
   }
 }
 
