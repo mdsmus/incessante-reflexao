@@ -125,3 +125,13 @@ tempoMark = #(define-music-function (parser location markp) (string?)
 
 piumosso = \tempoMark "Poco piu mosso"
 menomosso = \tempoMark "Meno mosso"
+
+% acidentes em trinados
+
+trflat = ^\markup { \vcenter { \musicglyph #"scripts.trill" \smaller \flat }}
+trsharp = ^\markup { \vcenter { \musicglyph #"scripts.trill" \smaller \sharp }}
+trnatural = ^\markup { \vcenter { \musicglyph #"scripts.trill" \smaller \natural }}
+
+ltrflat = ^\markup { \vcenter { \musicglyph #"scripts.TrillSpan" \smaller \flat }}
+ltrsharp = ^\markup { \vcenter { \musicglyph #"scripts.TrillSpan" \smaller \sharp }}
+ltrnatural = ^\markup { \vcenter { \musicglyph #"scripts.TrillSpan" \smaller \natural }}
