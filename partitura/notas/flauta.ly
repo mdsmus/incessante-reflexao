@@ -127,7 +127,7 @@ gestoBflauta = {
     r fis,4~\mp
     fis r2.
     r fis4
-    \times 4/6 {a16( cis e g16 bes d} fis2.~\f\ltrsharp\startTrillSpan
+    \times 4/6 {a16\<( cis e g16 bes d} fis2.~\f\ltrsharp\startTrillSpan
     fis4.)\stopTrillSpan r8 \times 2/3 {fis4-.-- fis-.-- fis-.--}
     fis4-- fis-- f-- b,~
     \dimTextDecresc {

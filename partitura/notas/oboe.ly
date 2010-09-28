@@ -62,7 +62,7 @@ gestoAoboe = {
           b cis d e d cis b ais
         }
         b cis d e
-        eis?8)\ff r r2.
+        eis!8)\ff r r2.
         \crescHairpin
       }
     }

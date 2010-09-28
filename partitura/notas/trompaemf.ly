@@ -63,7 +63,7 @@ gestoBtrompaemf = {
     a1)
     b'4->( f2.~
     f1)
-    r4 r8 a,?~\mp a2~
+    r4 r8 a,!~\mp a2~
     a2. r4
     r4 r8 a~ a2~
     a2

@@ -17,7 +17,7 @@ gestoAfagote = {
     d16( e f g f e d cis d e f g f e d cis
     d e f e d cis b cis d e d cis b ais b cis
     d cis b ais gis ais b cis b ais gis fisis gis ais b ais
-    g?8) r r2.
+    g!8) r r2.
     R1
     \clef bass
     r2
@@ -86,7 +86,7 @@ gestoBfagote = {
     e8->( dis4.) b8\p\<\leggero( cis dis eis
     \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
     b2) cis(
-    c?1~
+    c!1~
     c~
     c)
     \times 2/3 {r4 dis'8(} f2.
@@ -98,7 +98,7 @@ gestoBfagote = {
         b,8\p\<\leggero( cis dis eis
         \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
         b2) cis(
-        c?1~
+        c!1~
         c~
         c~
         c2) r
