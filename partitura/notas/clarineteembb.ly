@@ -119,7 +119,7 @@ gestoBclarineteembb = {
       g2. r8. cis,16~
       cis2. r4
       \times 2/3 {r8 g4~} g2 r4
-      cis,1\pp
+      r8 cis,~\pp cis2.
       R1
     }
   }
