@@ -202,9 +202,13 @@ gestoCflauta = {
 }
 
 gestoDflauta = {
-  \relative c''' {
-    R1*5
-    r2. b4~\f\>
+  \relative c'' {
+    R1
+    r4 \acciaccatura f8\p ees2.~(
+    ees2~ \times 4/5 {ees16) g( des f c} bes4~
+    bes2) r2
+    R1
+    r2. b'4~\f\>
     b\p r r2
     R1*3
     \acciaccatura f'8\f ees1(

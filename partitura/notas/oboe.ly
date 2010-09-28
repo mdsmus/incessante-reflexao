@@ -177,7 +177,10 @@ gestoCoboe = {
 
 gestoDoboe = {
   \relative c'' {
-    R1*5
+    R1*2
+    r4 \acciaccatura bes8\p a2 \acciaccatura c8 b!4~
+    b2 r2
+    R1
     r2. ais4~\f\>
     ais\p r r2
     R1
