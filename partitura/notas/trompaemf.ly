@@ -119,7 +119,7 @@ gestoCtrompaemf = {
 
     dis2~-+ dis4.
     R1*7/8
-    d,8-.-> r e-. r fis-.
+    d,8-o-.-> r e-. r fis-.
 
     d8-.-> r e-. r fis-. r gis-.
     d8-.-> r e-. r fis-. r gis-.
