@@ -209,7 +209,7 @@ gestoDflauta = {
     R1*3
     \acciaccatura f'8\f ees1(
     d2.~ d8) r
-    \times 2/3 {d2 d d}
+    d4~-> \times 2/3 {d8 d4->~} \times 2/3 {d4 d8~->} d4
     aes'1(
     g)
     R1*2

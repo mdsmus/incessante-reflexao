@@ -114,7 +114,7 @@ gestoDtrompaemf = {
     R1*6
     b1~\mp\<\cantabile(
     b2 a\mf~
-    a8) r \times 2/3 {a4 a a} dis4~(
+    a8) r \times 2/3 {a4-.-- a-.-- a-.--} dis4~(
     dis2~ dis8 cis4.~
     cis1~
     cis4) r r2

@@ -182,12 +182,12 @@ gestoDoboe = {
     ais\p r r2
     R1
     r2 a\mf(
-    gis4.) r8 \times 2/3 {gis4 gis gis}
+    gis4.) r8 \times 2/3 {gis4-.-- gis-.-- gis-.--}
     d'2( cis)
     R1
-    r4 r8 f~ f4~ f8 e~
-    e8 r \times 2/3 {e4 e e} bes'4~
-    bes a2.
+    r4 r8 f~( f4~ f8 e~
+    e8) r \times 2/3 {e4-.-- e-.-- e-.--} bes'4~
+    bes( a2.)
     R1*2
     r4 d,16\mf\agitato( e f g f e d cis d e f g
     f e d cis d8) r r4 \times 4/5 {b16( a g f ees}

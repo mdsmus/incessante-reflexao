@@ -132,8 +132,8 @@ gestoDfagote = {
   \clef bass
   \relative c {
     g1\f~
-    g8 r \times 2/3 {g4 g g} g4
-    g fis c2~
+    g8 r \times 2/3 {g4-.-- g-.-- g-.--} g4--
+    g-- fis-- c2~
     c1~\>
     c1\ppp
     r2.
@@ -143,12 +143,12 @@ gestoDfagote = {
     R1*3
     \clef bass
     r4 b,,,2\mf\obscuro bes4~
-    bes8 r \times 2/3 {bes4 bes bes} e4~
+    bes8 r \times 2/3 {bes4-.-- bes-.-- bes-.--} e4~--
     e dis2.
     r2
     \clef tenor
     ges''
-    f4. r8 \times 2/3 {f4 f f}
+    f4. r8 \times 2/3 {f4-.-- f-.-- f-.--}
     b1
     ais
     r2

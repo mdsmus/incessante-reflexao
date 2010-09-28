@@ -189,18 +189,18 @@ gestoCclarineteembb = {
 gestoDclarineteembb = {
   \relative c'' {
     R1*3
-    eis4.\p\<\cantabile\( fis g,4~
-    g8 eis'4 fis g, eis'8
-    fis\f g, \times 2/3 { eis'8 fis g,} eis'16 fis g, eis'32 fis \acciaccatura g,8 aes4~\f\>
-    aes\)\p r r2
+    eis4.\p\<\cantabile( fis g,4~
+    g8) eis'4( fis g,) eis'8(
+    fis\f g,) \times 2/3 { eis'8( fis g,)} eis'16( fis g,) eis'32( fis) \acciaccatura g,8 aes4~\f\>
+    aes\p r r2
     R1*4
     r4 fis,2~\mf\obscuro ( eis4~
-    eis8) r \times 2/3 {eis4 eis eis} cis'4~(
+    eis8) r \times 2/3 {eis4-.-- eis-.-- eis-.--} cis'4~(
     cis2 bis)
     r d''~(
-    d8 cis4) r8 \times 2/3 {cis4 cis cis}
-    g'2. fis4~
-    fis1
+    d8 cis4) r8 \times 2/3 {cis4-.-- cis-.-- cis-.--}
+    g'2.( fis4~
+    fis1)
     R1
     \transpose b cis {
       \relative {
