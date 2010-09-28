@@ -218,6 +218,5 @@ gestoDflauta = {
     \repeat unfold 5 {\times 4/5 {b'16[ a g f ees]}}
     \times 4/5 {b'16 a g f ees)}
     R1*3
-    d'32\f d r16 r8 r2.
   }
 }

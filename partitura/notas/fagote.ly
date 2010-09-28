@@ -161,6 +161,5 @@ gestoDfagote = {
     \repeat unfold 2 {\times 4/5 {b'16[ a g f ees]}}
     \times 4/5 {b'16 a g f ees)} r4
     R1*2
-    b,32\f b r16 r8 r2.
   }
 }

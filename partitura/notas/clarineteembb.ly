@@ -210,6 +210,5 @@ gestoDclarineteembb = {
       }
     }
     R1*2
-    dis,32\f dis r16 r8 r2.
   }
 }
