@@ -172,7 +172,22 @@ gestoCoboe = {
     g4~ g4.\mf
     \times 2/3 {ees16( f des)} bes'8~( bes4~ bes4.~
     bes8 a8~ a8) f16( g b4.~
-    b4) r4.
+    b4) r4 f'8-.->
+
+    R1*7/8*2
+    r8 g16->( f) b8->( a) cis->
+    r4 r4 r8 ees,16->( des) g8->(
+    f) r r4 r8 f16->( ees) a8->(
+    g) r r4.
+
+    dis,8-.-> r r4 f8-.-> r4
+    g8-.-> r r4 r4.
+    des8-.-> r ees-.-> r f-.->
+
+    des8-.-> r ees-.-> r f-.-> r g-.->
+    des8-.-> r ees-.-> r f-.-> r g-.->
+    des8-.-> r ees-.-> r f-.->
+
   }
 }
 

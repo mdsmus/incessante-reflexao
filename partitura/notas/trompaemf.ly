@@ -110,6 +110,25 @@ gestoCtrompaemf = {
     c8-.-> r d-. r e-.
 
     c8-.-> r d-. r e-. r fis-.
+    R1*7/8
+    gis4.~-+ gis4~
+
+    gis4 b4~-+ b4.
+    ais4-.->-+ d~-+ d4.~
+    d8 ais~-+ ais4.
+
+    dis2~-+ dis4.
+    R1*7/8
+    d,8-.-> r e-. r fis-.
+
+    d8-.-> r e-. r fis-. r gis-.
+    d8-.-> r e-. r fis-. r gis-.
+    d8-.-> r e-. r fis-.
+
+    d8-.-> r e-. r fis-. r gis-.
+    d8-.-> r e-. r fis-. r gis-.
+    d8-.-> r e-. r fis-.
+
   }
 }
 

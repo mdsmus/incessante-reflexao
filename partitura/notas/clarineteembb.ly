@@ -143,11 +143,22 @@ gestoCclarineteembb = {
     f4~ \times 2/3 {f8) ees-. des-.} \times 2/3 {b-. a-. g-.} f8~(
     f8 g16( a b dis cis f g aes16~ aes8.) g16(
     f b~ b8~ b4.~
-    b4) r r4.
+    b4) r f'8-.-> r4
 
-    g,8-.-> r a-. r b-. r cis-.
+    g,,8-.-> r a-. r b-. r cis-.
     g8-.-> r a-. r b-.
 
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
+
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-. r cis-.
+    g8-.-> r a-. r b-.
   }
 }
 

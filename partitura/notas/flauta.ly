@@ -150,13 +150,34 @@ gestoCflauta = {
   \relative c'' {
     R1*7/8
     R1*5/8
+
     R1*7/8
     r2 r8. a16\mf( b g
     dis' cis f8~ f4.~
+
     f2~ f4) r16 ees(
     g des aes'8~\ltrflat\startTrillSpan aes4~ aes4.~
     aes4\stopTrillSpan) r4.
+
     ees8-.-> r r4 ees8-.-> r4
+    R1*7/8
+    R1*5/8
+
+    r2 f8-.-> r4
+    R1*7/8
+    r4 r4 g8-.->
+    r8 f16->( ees) a8->( g) r4.
+    r8 g16->( f) b8->( a) r4.
+
+    R1*5/8
+    \times 4/6 {f16( a g b dis cis} f4~ f4.~
+    \times 4/7 {f8) dis-. cis-. b-. a-. g-. f-.} ees4.
+    \times 4/6 {f16( a g b dis cis)} f8->( ees aes8~
+    aes2) r4.
+    f,8-.-> r r4 r8 f16->( ees) a8->(
+    g) r r8 g16->( f) b8->(
+    a) r r4 r4.
+
   }
 }
 
