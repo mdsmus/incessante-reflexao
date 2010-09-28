@@ -209,6 +209,6 @@ gestoDclarineteembb = {
         \times 4/5 {b'16[ a g f ees])} r2
       }
     }
-    R1*2
+    R1
   }
 }

@@ -196,6 +196,6 @@ gestoDoboe = {
     f e d cis d8) r r4 \times 4/5 {b16( a g f ees}
     \repeat unfold 4 {\times 4/5 {b'16[ a g f ees]}}
     \times 4/5 {b'16 a g f ees)} r2.
-    R1*2
+    R1
   }
 }

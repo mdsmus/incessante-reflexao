@@ -78,6 +78,6 @@ gestoDglobal = {
   \mark \default
   s1*10
   \mark \default
-  s1*7
+  s1*6
   \bar "|."
 }

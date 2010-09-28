@@ -122,6 +122,5 @@ gestoDtrompaemf = {
     fis-. r gis-. d-. r e-. r fis-.
     r gis-. d-. r r4 d8-. r
     d-. r r d-. r r d-. r
-    r2 d8-. r r4
   }
 }
