@@ -110,15 +110,15 @@ gestoBclarineteembb = {
         \times 4/5 {ees,8\p\<\leggero( f g a b}
         \times 4/7 {cis8\mf\> dis cis b a g f} ees4\p f~
         f2) g(
-        bes) fes''4\mf bes,~
-        bes1
+        bes) fes''4\mf( bes,~
+        bes1)
       }
     }
     \dimTextDecresc {
-      cis'''2.\mf\> r4
-      g2. r4
-      cis,2. r4
-      g2. r4
+      r16 cis'''8.~\mf\> cis2 r4
+      g2. r8. cis,16~
+      cis2. r4
+      \times 2/3 {r8 g4~} g2 r4
       cis,1\pp
       R1
     }

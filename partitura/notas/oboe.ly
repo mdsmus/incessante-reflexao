@@ -139,11 +139,11 @@ gestoBoboe = {
     }
     \dimTextDecresc {
       cis'4\mf\> g2.~
-      g b4~
+      g2~ g8. b16~ b4~
       b2
-      r4 g'~
+      r4 \times 2/3 {r8 g'4~}
       g2 r4 cis,~
-      cis2 r4 g~
+      cis2 r4 r16 g8.~
       g2 r4 cis,~\pp
       cis1
     }
