@@ -21,9 +21,10 @@
 \book {
   \header{
     title = "Incessante Reflexão"
-    composer = "Marcos di Silva"
-    date = "2004"
-    copyright = "© Marcos di Silva"
+
+    %% adaptação para Bienal
+    composer = "N.BOHR"
+    opus = "~6 minutos"
   }
 
   \score {
@@ -92,5 +93,8 @@
     left-margin = 2\cm
     print-page-number = ##t
     ragged-last-bottom = ##t
+
+    %% adaptação à Bienal 2011
+    tagline = 0
   }
 }
