@@ -188,6 +188,10 @@ gestoCoboe = {
     des8-.-> r ees-.-> r f-.-> r g-.->
     des8-.-> r ees-.-> r f-.->
 
+    des8-.-> r ees-.-> r f-.-> r g-.->
+    des8-.-> r ees-.-> r f-.-> r g-.->
+    des8-.-> r ees-.-> r f-.->
+
   }
 }
 

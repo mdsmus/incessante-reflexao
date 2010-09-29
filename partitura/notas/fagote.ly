@@ -153,6 +153,8 @@ gestoCfagote = {
     dis8 d8~ d4.
 
     f2 r4.
+    g2~ g4 aes8~
+    aes2 d,4.
   }
 }
 
