@@ -143,13 +143,16 @@ gestoCclarineteembb = {
       f2~ f8) \acciaccatura g8 d4
       g16( des) aes8~ aes4~ aes4.
     }
-    R1*5/8
-    R1*7/8
-    g2~( g4.~
-    g4~ g8 bes4~
-    bes2~ bes8 cis4~
-    cis4~ cis8) r r4.
-    R1*5/8
+    g8-. r a-.[ r b-.]
+    g-. r a-. r b-.[ r cis-.]
+    g-. r a-. r b-.[ r cis-.]
+
+    g8-. r a-.[ r b-.]
+    g-. r a-. r b-.[ r cis-.]
+    g-. r a-. r b-.[ r cis-.]
+
+    g8-. r r4.
+
     R1*7/8*2
     R1*5/8
     R1*7/8
