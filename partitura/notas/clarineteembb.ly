@@ -139,9 +139,9 @@ gestoCclarineteembb = {
     }
     %% material da flauta transposto
     \transpose f g' {
-      r8 f8~\mf\cantabile( f4.~
-      f2~ f4.~
-      f8 aes~ aes4~ aes4.)
+      ees16~\mf\cantabile( g f8~ f4.~
+      f2~ f8) \acciaccatura g8 d4
+      g16( des) aes8~ aes4~ aes4.
     }
     R1*5/8
     R1*7/8
@@ -166,17 +166,16 @@ gestoCclarineteembb = {
     d~ d4.)
     R1*7/8*2
     r4 r b8~
-    b2 b4 b8~
-    b b~ b b b( ais) dis,~
+    b4. r8 \appoggiatura {a16 [ cis]} b4-- b8~--
+    b b~-- b b-- b( ais) dis,~
     dis4~ dis4.
     R1*7/8*2
-    g'4~( g4.
-    \appoggiatura {eis16[ dis cis b a]} g4) g g g8
-    g( fis) c4~:64 c4.:64
-    r4 \appoggiatura {a'16[ b cis dis f g a b cis]} gis4.~(
+    g'4~( g16 eis16 dis cis b a
+    g4) g-- g-- g8
+    g( fis) c4~:64 c4:64 \times 2/3 {a'16( b cis}
+    \times 4/6 {dis f g a b cis} gis4.~
     gis4 a8 gis~ gis a4
-    gis8 d~ d4) r4.
-    \appoggiatura {bes16[ c d e ges aes bes c d]} aes4~( aes4.
+    gis8 d~ d4) \times 2/3 {bes16( c d} \times 4/6 {e ges aes bes c d} aes4~ aes4.
     bes8 a~ a bes~ bes a dis,~
     dis4) r bes'8( e,4~
     e) r8 b'( f~
