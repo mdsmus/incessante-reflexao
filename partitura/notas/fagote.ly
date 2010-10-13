@@ -84,7 +84,7 @@ gestoBfagote = {
     c8) dis4( cis8 e4 g~
     g f) e8->( f4.)
     e8->( dis4.) b8\p\<\leggero( cis dis eis
-    \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
+    \times 2/3 {fisis4)\mf\> eis8~(} \times 2/3 {eis8 dis4} cis4\p b~
     b2) cis(
     c!1~
     c~
@@ -96,18 +96,15 @@ gestoBfagote = {
     \transpose b c {
       \relative {
         b,8\p\<\leggero( cis dis eis
-        \times 2/3 {fisis4\mf\> eis8~} \times 2/3 {eis8 dis4} cis4\p b~
+        \times 2/3 {fisis4)\mf\> eis8~(} \times 2/3 {eis8 dis4} cis4\p b~
         b2) cis(
-        c!1~
+        c!4~) c2.
         c~
         c~
-        c2) r
+        c2 r
       }
     }
-    r2. r8 cis,~\pp
-    cis1~
-    cis
-    R1
+    R1*4
   }
 }
 

@@ -96,7 +96,7 @@ gestoBclarineteembb = {
     d8) f4( dis8 fis4 a~
     a2) bes8->( a4.)
     bes8->( b4.) \times 4/5 {ees,8\p\<\leggero( f g a ces}
-    \times 4/7 {des8\mf\> ees des ces a g f} ees4\p f~
+    \times 4/7 {des8)\mf\> ees( des ces a g f} ees4\p f~
     f2) g(
     bes~ \times 2/3 {bes8) e'4~->\mf} e8 bes~
     bes1
@@ -108,7 +108,7 @@ gestoBclarineteembb = {
     \transpose ees e' {
       \relative {
         \times 4/5 {ees,8\p\<\leggero( f g a ces}
-        \times 4/7 {des8\mf\> ees des ces a g f} ees4\p f~
+        \times 4/7 {des8)\mf\> ees( des ces a g f} ees4\p f~
         f2) g(
         bes) fes''4\mf( bes,~
         bes1)
