@@ -176,9 +176,9 @@ gestoCclarineteembb = {
     g'4~( g16 eis16 dis cis b a
     g4) g-- g-- g8
     g( fis) c4~:64 c4:64 \times 2/3 {a'16( b cis}
-    \times 4/6 {dis f g a b cis} gis4.~
+    \times 2/3 {dis f g} \times 2/3 {a b cis} gis4.~
     gis4 a8 gis~ gis a4
-    gis8 d~ d4) \times 2/3 {bes16( c d} \times 4/6 {e ges aes bes c d} aes4~ aes4.
+    gis8 d~ d4) \times 2/3 {bes16( c d} \times 2/3 {e ges aes} \times 2/3 {bes c d} aes4~ aes4.
     bes8 a~ a bes~ bes a dis,~
     dis4) r bes'8( e,4~
     e) r8 b'( f~
