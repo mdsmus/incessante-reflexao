@@ -41,8 +41,7 @@ gestoBglobal = {
   \mark \default
   s1*8
   \mark \default
-  s1*11
-  s4. s8\fermata s2
+  s1*12
   \bar "||"
 }
 

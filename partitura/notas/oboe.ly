@@ -121,7 +121,7 @@ gestoBoboe = {
     g2) aes8->( g4.)
     aes8->( a4.)
     \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
-    \times 4/5 {b8\mf\> a g f ees} des2~\p
+    \times 4/5 {b8)\mf\> a( g f ees} des2~\p
     des) ees4. \times 2/3 {f16( g bes}
     c!4--)\mf fis,2.~
     fis bes4->~\mp
@@ -133,7 +133,7 @@ gestoBoboe = {
     \transpose des d'' {
       \relative {
         \times 4/7 {des,8\p\<\leggero( ees f g a b cis}
-        \times 4/5 {b8\mf\> a g f ees} des2~\p
+        \times 4/5 {b8)\mf\> a( g f ees} des2~\p
         des) ees
       }
     }
