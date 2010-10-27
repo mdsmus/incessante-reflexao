@@ -177,6 +177,12 @@ gestoCflauta = {
     f,8-.-> r r4 r8 f16->( ees) a8->(
     g) r r8 g16->( f) b8->(
     a) r r4 r4.
+    R1*7/8
+    r4 r8 g16->( f) b8->(
+    a) r r8 a16->( g) cis8->( b) r
+    r4 r8 f~( f4 ees8-.)
+    aes4~ aes8 r g~(
+    g4 f8-.) bes~ bes4.
 
   }
 }
