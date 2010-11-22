@@ -163,6 +163,15 @@ gestoCclarineteembb = {
     r4 r8 f~( f4 ees8-.)
     aes4~ aes8 r g~(
     g4 f8-.) bes~ bes4.
+
+    R1*7/8
+    R1*5/8
+    R1*7/8
+
+    r4 r8 g'16->( f) b8->(
+    a) r r8 a16->( g) cis8->(
+    b) r r4 r4.
+
   }
 }
 

@@ -183,7 +183,13 @@ gestoCflauta = {
     r4 r8 f~( f4 ees8-.)
     aes4~ aes8 r g~(
     g4 f8-.) bes~ bes4.
+    R1*7/8
+    R1*5/8
 
+    des,8-.-> r ees-.-> r f-.-> r g-.->
+    des8-.-> r ees-.-> r f-.-> g-.-> a-.->
+    b-.-> f-.-> a-.-> g-.-> b-.->
+    cis-.->
   }
 }
 
