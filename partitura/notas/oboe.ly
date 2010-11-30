@@ -159,8 +159,20 @@ gestoCoboe = {
   \transpose g f {
     \relative c'' {
       g8-.\mf\marcatto r a-. r b-.[ r cis-.]
-      \repeat unfold 16 {
-        g-. r a-.[ r b-.]
+      \repeat unfold 3 {
+        g8-. r a-.[ r b-.]
+        g-. r a-. r b-.[ r cis-.]
+        g-. r a-. r b-.[ r cis-.]
+      }
+      g8-. r r4.
+      R1*7/8
+      g2~( g4.~
+
+      g4~ g8 bes4~
+      bes2~ bes8 cis4~
+      cis4~ cis8) r r4.
+      \repeat unfold 11 {
+        g8-. r a-.[ r b-.]
         g-. r a-. r b-.[ r cis-.]
         g-. r a-. r b-.[ r cis-.]
       }

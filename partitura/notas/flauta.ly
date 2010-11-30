@@ -150,11 +150,12 @@ gestoCflauta = {
   \relative c'' {
     R1*7/8
     R1*5/8
-    R1*7/8*2
-    r8 f8~\mf\cantabile( f4.~
+    R1*7/8
+    r2 r8. b16\mf\cantabile( g a
+    ees'16 des) f8~ f4.~
     f2~ f4.~
-    f8 aes~ aes4~ aes4.~
-    aes4) r4.
+    f8 \acciaccatura ees8 aes~ aes4~ aes4.~
+    aes4 r4.
     R1*7/8
     r2 r8 f4~(
     f~ f4.~
@@ -162,9 +163,9 @@ gestoCflauta = {
     aes2~ aes4.
     b4~ b4.~
     b2) r4 r8
-    r4 r8 f~( f4.~
+    r8 \times 2/3 {g,16( f a} \times 2/3 {b ees des} f8~ f4.~
     f4~ f4.~
-    f4~ f8 aes~ aes4.
+    f4~ f8 aes~ aes4.~
     aes2~ aes8 b4~
     b~ b4.~
     b4 g~ g4.)
@@ -178,13 +179,13 @@ gestoCflauta = {
     R1*5/8
     R1*7/8*2
     r4 ges4.~
-    ges2 ges4 ges8~
-    ges ges~ ges ges ges( f) b,~
+    ges4. r8 \appoggiatura {f16[ aes]} ges4-- ges8~--
+    ges ges~-- ges ges-- ges( f) b,~
     b4~ b4.
     R1*7/8*2
     r4 r8 ais'4~(
-    ais \appoggiatura {c16[ d e fis gis]} ais4) ais ais8~(
-    ais ais ais( a) dis,4.:64~
+    \times 4/5 {c16( d e fis gis} ais4) ais-- ais8~--
+    ais ais-- ais( a) dis,4.:64~
     dis4:64 r4.
     R1*7/8*2
     r4 c4.~(
