@@ -86,9 +86,9 @@ gestoBfagote = {
     e8->( dis4.) b8\p\<\leggero( cis dis eis
     \times 2/3 {fisis4)\mf\> eis8~(} \times 2/3 {eis8 dis4} cis4\p b~
     b2) cis(
-    c!1~
+    c!1)
     c~
-    c)
+    c
     \times 2/3 {r4 dis'8(} f2.
     dis1)
     \times 2/3 {r4 dis8(} f2.
