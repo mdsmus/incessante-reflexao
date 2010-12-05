@@ -3,7 +3,7 @@ Composição "Incessante reflexão, para quinteto de madeiras".
 Este repositório contém a composição "Incessante reflexão" e todas as suas revisões.
 
 Para compilar a partitura é necessário ter o Lilypond instalado [1]. A
-página http://marcosdisilva.net/pt/obras-incessante.html contém
+página http://marcosdisilva.net/pt/obra-incessante-reflexao.html contém
 comentários sobre a obra.
 
 Para compilar e ver o pdf no gv [2], rode:
@@ -18,7 +18,7 @@ This repository contains the composition "Incessante reflexão" and all
 its reviews.
 
 In order to compile the score, it's necessary to install Lilypond
-[1]. The webpage http://marcosdisilva.net/pt/obras-incessante.html
+[1]. The webpage http://marcosdisilva.net/en/piece-incessante-reflexao.html
 contains words about the piece.
 
 To compile and view score in gv [2], run:
